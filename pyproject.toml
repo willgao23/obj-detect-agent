@@ -1,0 +1,23 @@
+[project]
+name = "obj-detect-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "willgao23", email = "williamtianyugao@gmail.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "langchain>=1.5.2",
+    "langchain-huggingface>=1.2.3",
+    "python-dotenv>=1.2.4",
+    "torch>=2.15.0",
+    "transformers>=5.23.0",
+]
+
+[project.scripts]
+obj-detect-agent = "obj_detect_agent.agent:main"
+
+[build-system]
+requires = ["uv_build>=0.13.1,<0.14.0"]
+build-backend = "uv_build"
