@@ -8,13 +8,22 @@ authors = [
 ]
 requires-python = ">=3.11"
 dependencies = [
+    "datasets>=5.2.0",
     "langchain>=1.5.2",
     "langchain-huggingface>=1.2.3",
     "langchain-ollama>=1.1.0",
+    "pandas>=3.1.1",
+    "pillow>=13.0.0",
     "python-dotenv>=1.2.4",
     "torch>=2.15.0",
     "transformers>=5.23.0",
+    "ultralytics>=8.4.215",
 ]
+
+[tool.poe.tasks]
+main = "uv run obj-detect-agent"
+data-fetch = "uv run ./scripts/create_dataset.py fetch"
+data-no-fetch = "uv run ./scripts/create_dataset.py no-fetch"
 
 [project.scripts]
 obj-detect-agent = "obj_detect_agent.controller:main"
@@ -22,3 +31,8 @@ obj-detect-agent = "obj_detect_agent.controller:main"
 [build-system]
 requires = ["uv_build>=0.13.1,<0.14.0"]
 build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "poethepoet>=0.49.0",
+]
