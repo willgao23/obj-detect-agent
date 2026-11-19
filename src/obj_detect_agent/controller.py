@@ -1,11 +1,13 @@
 from .agent import ObjDetectAgent
-from .tools import test_tool
+from .tools import yolo, yoloE, yoloE_promptFree
+from langchain_core.messages import HumanMessage
 
 def main() -> None:
     config = {
-        "model": "phi4-mini",
-        "tools": [test_tool],
-        "system_prompt": "You are a helpful assistant"
+        "model": "lfm3-omni",
+        "tools": [yolo, yoloE, yoloE_promptFree],
+        "system_prompt": "No matter the user message, respond with 'testing...'"
     }
     agent = ObjDetectAgent(config)
-    print(agent.agent)
+    msg = HumanMessage(content="Hello!")
+    print(agent.invoke(msg))
