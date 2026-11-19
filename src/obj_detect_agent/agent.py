@@ -1,3 +1,4 @@
+from langchain.chat_models import init_chat_model
 from langchain.agents import create_agent
 from dotenv import load_dotenv
 import os
@@ -5,13 +6,13 @@ import os
 load_dotenv()
 HF_KEY = os.getenv("HUGGINGFACEHUB_API_TOKEN")
 
-def test_tool(x: str) -> str:
-    """Stub tool for initial agent config"""
-    return f"test_tool was called with param: {x}"
+class ObjDetectAgent():
+    """Agent for dynamically detemining the appropriate object detection """
 
-def main() -> None:
-    """Instantiates and runs the object detection agent"""
-    model="huggingface:microsoft/Phi-3-mini-4k-instruct"
-    tools=[test_tool]
-    system_prompt="You are a helpful assistant"
-    agent = create_agent(model=model, tools=tools, system_prompt=system_prompt)
+    def __init__(self, config) -> None:
+        """Initialize an agent from a config dict"""
+        params = set(["model", "tools", "system_prompt"])
+        assert set(config.keys()).issuperset(params)
+        model = init_chat_model(model=config["model"], model_provider="huggingface")
+        agent = create_agent(model=model, tools=config["tools"], system_prompt=config["system_prompt"])
+        self.agent = agent
