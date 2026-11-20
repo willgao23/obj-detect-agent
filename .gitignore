@@ -221,3 +221,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#data
+data/train/
+data/images/*.jpg
+data/dataset_dict.json
+data/user_prompt.txt
+
+#Mac data
+.DS_store
