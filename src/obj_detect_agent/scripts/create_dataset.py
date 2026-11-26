@@ -4,13 +4,12 @@ import os
 import pandas as pd
 import numpy as np
 import sys
-from io import BytesIO
-import base64
 import asyncio
 from langchain_ollama import ChatOllama
 from langchain.messages import HumanMessage, SystemMessage
-from PIL import Image
 import yaml
+from obj_detect_agent.helpers import convert_b64, convert_msg
+import ast
 
 load_dotenv()
 HF_KEY = os.getenv("HUGGINGFACEHUB_API_TOKEN")
@@ -20,43 +19,32 @@ def fetch_imgs() -> None:
     ds = load_dataset("blanchon/AID", token=HF_KEY)
     ds.save_to_disk("./data")
 
-def get_coco_classes() -> str:
-    """Loads the COCO classes in coco.yaml as a comma separated string"""
-    with open("./data/coco.yaml") as fp:
+def get_dota_classes() -> str:
+    """Loads the DOTA classes in dota.yaml as a comma separated string"""
+    with open("./data/dota.yaml") as fp:
         dict = yaml.safe_load(fp)
-    return ",".join([v for _, v in dict["names"].items()])
-
-def convert_b64(path: str) -> str:
-    """A helper function to convert an image in a path to base64"""
-    with Image.open(path) as img:
-        buf = BytesIO()
-        img.save(buf, format="jpeg")
-        return base64.b64encode(buf.getvalue()).decode("utf-8")
+    return ",".join([k for k, _ in dict["names"].items()])
 
 def choose_prompt(prompt_type: str) -> str:
     """Varies the user prompt based on index"""
     prompt = ""
-    if prompt_type == "all":
+    if prompt_type == "general":
         prompt = f"""Write the user message with these constraints:
-            - Target: all objects, do NOT specify a particular object or object class
-            - Specificity: broad"""
-    elif prompt_type == "coco":
+            <GENERAL>"""
+    elif prompt_type == "dota":
         prompt = f"""Write the user message with these constraints:
-            - Target: a single object class in the following: {get_coco_classes()}
+            - Target: a single object class in the following: {get_dota_classes()}
             - Specificity: broad"""
     else:
         prompt = f"""Write the user message with these constraints:
-            - Target: a single object class NOT in the following: {get_coco_classes()}
+            - Target: a single object class NOT in the following: {get_dota_classes()}
             - Specificity: precise"""
     return prompt
 
 def generate_messages(path: str, prompt_type: str) -> list[SystemMessage, HumanMessage]:
     """Create messages to prompt the LLM with for mock user prompt creation"""
-    img_b64 = convert_b64(path)
-    text_content = {"type": "text", "text": f"{choose_prompt(prompt_type)}"}
-    img_content = {"type": "image_url", "image_url": f"data:image/jpeg;base64,{img_b64}"}
-    im_prompt = HumanMessage(content=[text_content, img_content]) if prompt_type != "all" else HumanMessage(content=[text_content])
-    with open("./data/sys_prompt.txt") as fp:
+    im_prompt = convert_msg(choose_prompt(prompt_type), convert_b64(path)) if prompt_type != "general" else convert_msg(choose_prompt(prompt_type), None)
+    with open("./data/prompts/sys_prompt.txt") as fp:
         sys_prompt = fp.read()
     sys_prompt = SystemMessage(sys_prompt)
     return [sys_prompt, im_prompt]
@@ -66,16 +54,17 @@ async def create_prompts(df: pd.DataFrame) -> pd.DataFrame:
     shuffled_df = df.sample(frac=1, random_state=42)
     shuffled_df = shuffled_df[:1000]
     paths = shuffled_df["image_path"].to_numpy()
-    all, coco, non_coco = np.array_split(paths, 3)
-    all_msgs = [generate_messages(path, "all") for path in all]
-    coco_msgs = [generate_messages(path, "coco") for path in coco]
-    non_coco_msgs = [generate_messages(path, "non_coco") for path in non_coco]
-    msgs = all_msgs + coco_msgs + non_coco_msgs
+    general, dota, vocab_free = np.array_split(paths, 3)
+    general_msgs = [generate_messages(path, "general") for path in general]
+    dota_msgs = [generate_messages(path, "dota") for path in dota]
+    open_vocab_msgs = [generate_messages(path, "open_vocab") for path in vocab_free]
+    msgs = general_msgs + dota_msgs + open_vocab_msgs
     llm = ChatOllama(model="qwen3-vl:8b-instruct", temperature=0.5, num_predict=128)
     responses = await asyncio.gather(*[asyncio.create_task(llm.ainvoke(msg)) for msg in msgs])
-    content = [res.content_blocks[0]["text"] for res in responses]
-    prompt_type = ["all"] * len(all_msgs) + ["coco"] * len(coco_msgs) + ["non_coco"] * len(non_coco_msgs)
-    output_df = pd.DataFrame({"Path": paths, "Prompt": content, "Type": prompt_type})
+    prompts = [ast.literal_eval(res.content_blocks[0]["text"])["message"] for res in responses]
+    classes = [ast.literal_eval(res.content_blocks[0]["text"])["classes"] for res in responses]
+    prompt_type = ["general"] * len(general_msgs) + ["dota"] * len(dota_msgs) + ["open_vocab"] * len(open_vocab_msgs) 
+    output_df = pd.DataFrame({"Path": paths, "Prompt": prompts, "Classes": classes, "Type": prompt_type})
     return output_df
 
 if __name__ == "__main__":

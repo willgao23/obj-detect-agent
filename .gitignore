@@ -226,7 +226,15 @@ __marimo__/
 data/train/
 data/images/*.jpg
 data/dataset_dict.json
-data/user_prompt.txt
+data/prompts/user_prompt.txt
+data/prompts/sys_prompt_archive.txt
+data/prompts/sys_prompt_VLM_archive.txt
+data/data_archive.csv
+data/*_archive.csv
+
+#ultralytics models
+yolo*.pt
+weights
 
 #Mac data
 .DS_store

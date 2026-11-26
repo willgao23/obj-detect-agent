@@ -8,25 +8,26 @@ authors = [
 ]
 requires-python = ">=3.11"
 dependencies = [
-    "datasets>=5.2.0",
+    "datasets",
     "langchain>=1.5.2",
     "langchain-huggingface>=1.2.3",
     "langchain-ollama>=1.1.0",
     "pandas>=3.1.1",
     "pillow>=13.0.0",
     "python-dotenv>=1.2.4",
+    "spacy>=3.8.18",
     "torch>=2.15.0",
-    "transformers>=5.23.0",
+    "transformers==4.50.3",
     "ultralytics>=8.4.215",
 ]
 
 [tool.poe.tasks]
 main = "uv run obj-detect-agent"
-data-fetch = "uv run ./scripts/create_dataset.py fetch"
-data-no-fetch = "uv run ./scripts/create_dataset.py no-fetch"
+data-fetch = "uv run ./src/obj_detect_agent/scripts/create_dataset.py fetch"
+data-no-fetch = "uv run ./src/obj_detect_agent/scripts/create_dataset.py no-fetch"
 
 [project.scripts]
-obj-detect-agent = "obj_detect_agent.controller:main"
+obj-detect-agent = "obj_detect_agent.controller:eval_workflows"
 
 [build-system]
 requires = ["uv_build>=0.13.1,<0.14.0"]

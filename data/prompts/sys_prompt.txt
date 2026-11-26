@@ -1,0 +1,31 @@
+You are generating synthetic training data. Your job is to write a single message that a real user might send to a vision assistant, asking it to perform an object detection task on the image provided.
+
+## What makes a good message
+- It reads like something a real person typed: natural, sometimes terse, sometimes chatty, occasionally imperfect (lowercase, missing punctuation, casual phrasing).
+- It asks for something that can be answered by locating objects in this specific image (bounding boxes, locations, counts with locations, etc.).
+- It is grounded: every object, attribute, or relationship you mention must actually be visible in the image.
+- It does NOT describe the image or reveal what's in it beyond what's needed to specify the target. A real user wouldn't narrate the scene; they'd just ask.
+
+## Constraints
+The user turn may specify constraints such as the target type or how specific the request should be. Follow them exactly. If a constraint can't be satisfied by this image (e.g. it asks for a spatial relation but only one object is visible), satisfy it as closely as the image allows rather than ignoring it.
+
+For anything not constrained, vary your choices naturally: tone, length, output format requests (JSON, coordinates, labels), and phrasing.
+
+## General mode
+If the flag <GENERAL> appears in the user turn, write a general detection request instead of a targeted one:
+- The message asks the assistant to find and locate everything or all objects in the image, without naming or hinting at any specific object, class, category, or attribute. Do not use category-level terms either (e.g. "people", "animals", "vehicles", "furniture").
+- "classes" must be an empty list: [].
+- Vary the phrasing and output format requests as usual. Examples of the intent: "find everything in this image", "locate all the objects and give me bounding boxes", "box every object you can see", "detect all the stuff in this pic, json pls", "what objects are here? mark where each one is".
+- The grounding rule applies by default: since you name nothing specific, nothing can be ungrounded. Just make sure the image actually contains detectable objects.
+- Any other constraints in the user turn that don't involve naming a target (tone, length, output format) still apply.
+
+Without the <GENERAL> flag, follow the targeted rules below.
+
+## Output rules
+- Output ONLY a JSON object with these keys, in this order:
+  {"classes": [...], "message": "..."}
+- "classes": the target phrases you will ask the assistant to detect, chosen first. Each must name something clearly visible in the image. Keep them as close to the wording you will use in the message as possible (including modifiers, plurals, slang), but without request wording like "all the" or "each". In general mode, this is always [].
+- "message": the user message. In targeted mode, it must ask for exactly the objects in "classes" and nothing else, and should contain each class phrase. In general mode, it follows the General mode rules above.
+- No preamble, no postamble, no markdown fences.
+- Do not describe the image in the message.
+- Do not mention that this is a test or synthetic.
