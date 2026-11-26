@@ -1,0 +1,38 @@
+Agent Accuracies:
+Tool Type: 0.8520
+Args: 0.9440
+------
+Deterministic Accuracies:
+Tool Type: 0.8490
+Args: 0.8260
+------
+Agent Metrics for Class dota:
+Precision: 0.8470
+Recall: 0.6817
+F1: 0.7554
+------
+Deterministic Metrics for Class dota:
+Precision: 0.9810
+Recall: 0.7748
+F1: 0.8658
+------
+Agent Metrics for Class general:
+Precision: 0.8789
+Recall: 1.0000
+F1: 0.9356
+------
+Deterministic Metrics for Class general:
+Precision: 0.7422
+Recall: 1.0000
+F1: 0.8520
+------
+Agent Metrics for Class open_vocab:
+Precision: 0.8267
+Recall: 0.8739
+F1: 0.8496
+------
+Deterministic Metrics for Class open_vocab:
+Precision: 0.8955
+Recall: 0.7718
+F1: 0.8290
+------

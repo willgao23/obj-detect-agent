@@ -1,0 +1,1001 @@
+,Unnamed: 0,Path,Prompt,Classes,Type,Agent Tool,Agent Args,Agent Called Type,Det Args,Det Tools,Det Called Type
+0,0,./data/images/6252.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+1,1,./data/images/4684.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+2,2,./data/images/1731.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+3,3,./data/images/4742.jpg,find everything in this image and give me bounding boxes in JSON,[],general,yolo_obb,[],general,[],yolo_obb,general
+4,4,./data/images/4521.jpg,find everything in this image and give me the bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+5,5,./data/images/6340.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+6,6,./data/images/576.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+7,7,./data/images/5202.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+8,8,./data/images/6363.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+9,9,./data/images/439.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+10,10,./data/images/2750.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+11,11,./data/images/7487.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+12,12,./data/images/5272.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+13,13,./data/images/5653.jpg,find everything in this image and give me the bounding boxes for each,[],general,yolo_obb,[],general,[],yolo_obb,general
+14,14,./data/images/3999.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+15,15,./data/images/6033.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+16,16,./data/images/582.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+17,17,./data/images/9931.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+18,18,./data/images/7051.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+19,19,./data/images/8158.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+20,20,./data/images/9897.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+21,21,./data/images/2249.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+22,22,./data/images/4640.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+23,23,./data/images/9486.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+24,24,./data/images/4947.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+25,25,./data/images/9921.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+26,26,./data/images/1963.jpg,find everything in this image and give me bounding boxes in JSON,[],general,yolo_obb,[],general,[],yolo_obb,general
+27,27,./data/images/8243.jpg,find everything in this image and give me the bounding boxes in JSON format,[],general,yolo_obb,[],general,[],yolo_obb,general
+28,28,./data/images/6590.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+29,29,./data/images/8848.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+30,30,./data/images/321.jpg,find everything in this image and give me the bounding boxes for each,[],general,yolo_obb,[],general,[],yolo_obb,general
+31,31,./data/images/2678.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+32,32,./data/images/4625.jpg,find everything in this image and give me bounding boxes in JSON,[],general,yolo_obb,[],general,[],yolo_obb,general
+33,33,./data/images/4949.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+34,34,./data/images/8328.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+35,35,./data/images/3337.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+36,36,./data/images/5589.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+37,37,./data/images/251.jpg,find everything in this image and give me bounding boxes,[],general,yolo_obb,[],general,[],yolo_obb,general
+38,38,./data/images/3973.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+39,39,./data/images/6630.jpg,find everything in this image and give me bounding boxes in JSON,[],general,yolo_obb,[],general,[],yolo_obb,general
+40,40,./data/images/5547.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+41,41,./data/images/35.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+42,42,./data/images/8362.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+43,43,./data/images/1513.jpg,find everything in this image and give me bounding boxes,[],general,yolo_obb,[],general,[],yolo_obb,general
+44,44,./data/images/8581.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+45,45,./data/images/39.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+46,46,./data/images/4819.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+47,47,./data/images/3465.jpg,find everything in this image and give me bounding boxes in JSON format,[],general,yolo_obb,[],general,[],yolo_obb,general
+48,48,./data/images/1760.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+49,49,./data/images/2304.jpg,find everything in this image and give me the bounding boxes for each object,[],general,yolo_obb,[],general,[],yolo_obb,general
+50,50,./data/images/3723.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+51,51,./data/images/8284.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+52,52,./data/images/4993.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+53,53,./data/images/8127.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+54,54,./data/images/3032.jpg,find everything in this image and give me bounding boxes in JSON,[],general,yolo_obb,[],general,[],yolo_obb,general
+55,55,./data/images/7938.jpg,find everything in this image and give me bounding boxes in JSON format,[],general,yolo_obb,[],general,[],yolo_obb,general
+56,56,./data/images/3039.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+57,57,./data/images/9656.jpg,find everything in this image and give me bounding boxes in JSON,[],general,yolo_obb,[],general,[],yolo_obb,general
+58,58,./data/images/2545.jpg,find everything in this image and give me bounding boxes in JSON,[],general,yolo_obb,[],general,[],yolo_obb,general
+59,59,./data/images/2592.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+60,60,./data/images/1188.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+61,61,./data/images/7966.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+62,62,./data/images/6077.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+63,63,./data/images/107.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+64,64,./data/images/1315.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+65,65,./data/images/8187.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+66,66,./data/images/2753.jpg,find everything in this image and give me bounding boxes in JSON,[],general,yolo_obb,[],general,[],yolo_obb,general
+67,67,./data/images/9754.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+68,68,./data/images/6231.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+69,69,./data/images/2876.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+70,70,./data/images/5323.jpg,find everything in this image and give me the bounding boxes in JSON format,[],general,yolo_obb,[],general,[],yolo_obb,general
+71,71,./data/images/799.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+72,72,./data/images/3570.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+73,73,./data/images/2894.jpg,find everything in this image and give me bounding boxes,[],general,yolo_obb,[],general,[],yolo_obb,general
+74,74,./data/images/2927.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+75,75,./data/images/8178.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+76,76,./data/images/971.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+77,77,./data/images/6687.jpg,find everything in this image and mark where each one is,[],general,yolo_obb,[],general,[],yolo_obb,general
+78,78,./data/images/8576.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+79,79,./data/images/2020.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+80,80,./data/images/9055.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+81,81,./data/images/952.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+82,82,./data/images/5359.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+83,83,./data/images/3857.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+84,84,./data/images/5861.jpg,find everything in this image and give me the bounding boxes in JSON format,[],general,yolo_obb,[],general,[],yolo_obb,general
+85,85,./data/images/3145.jpg,find everything in this image and give me bounding boxes,[],general,yolo_obb,[],general,[],yolo_obb,general
+86,86,./data/images/3305.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+87,87,./data/images/3006.jpg,find everything in this image and give me bounding boxes in JSON format,[],general,yolo_obb,[],general,[],yolo_obb,general
+88,88,./data/images/8610.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+89,89,./data/images/7770.jpg,find everything in this image and give me the bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+90,90,./data/images/7438.jpg,find everything in this image and give me bounding boxes in JSON,[],general,yolo_obb,[],general,[],yolo_obb,general
+91,91,./data/images/7942.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+92,92,./data/images/9239.jpg,find everything in this image and give me bounding boxes,[],general,yolo_obb,[],general,[],yolo_obb,general
+93,93,./data/images/1056.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+94,94,./data/images/3154.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+95,95,./data/images/3787.jpg,find everything in this image and give me bounding boxes,[],general,yolo_obb,[],general,[],yolo_obb,general
+96,96,./data/images/9190.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+97,97,./data/images/7825.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+98,98,./data/images/7539.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+99,99,./data/images/7231.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+100,100,./data/images/764.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+101,101,./data/images/5019.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+102,102,./data/images/4903.jpg,find everything in this image and give me the bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+103,103,./data/images/8093.jpg,find everything in this image and give me the bounding boxes for each object,[],general,yolo_obb,[],general,[],yolo_obb,general
+104,104,./data/images/6843.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+105,105,./data/images/2165.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+106,106,./data/images/1862.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+107,107,./data/images/7850.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+108,108,./data/images/9124.jpg,find everything in this image and give me bounding boxes,[],general,yolo_obb,[],general,[],yolo_obb,general
+109,109,./data/images/2340.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+110,110,./data/images/5527.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+111,111,./data/images/6743.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+112,112,./data/images/4003.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+113,113,./data/images/1123.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+114,114,./data/images/8710.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+115,115,./data/images/4049.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+116,116,./data/images/7640.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+117,117,./data/images/765.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+118,118,./data/images/2344.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+119,119,./data/images/4071.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+120,120,./data/images/7216.jpg,find everything in this image and give me bounding boxes in JSON,[],general,yolo_obb,[],general,[],yolo_obb,general
+121,121,./data/images/4216.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+122,122,./data/images/7952.jpg,find everything in this image and give me the bounding boxes for each,[],general,yolo_obb,[],general,[],yolo_obb,general
+123,123,./data/images/5970.jpg,find everything in this image and give me the bounding boxes for each,[],general,yolo_obb,[],general,[],yolo_obb,general
+124,124,./data/images/3350.jpg,find everything in this image and give me the bounding boxes for each object,[],general,yolo_obb,[],general,[],yolo_obb,general
+125,125,./data/images/4695.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+126,126,./data/images/3399.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+127,127,./data/images/4081.jpg,find everything in this image and give me bounding boxes in JSON,[],general,yolo_obb,[],general,[],yolo_obb,general
+128,128,./data/images/9150.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+129,129,./data/images/1224.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+130,130,./data/images/6292.jpg,find everything in this image and give me the bounding boxes for each,[],general,yolo_obb,[],general,[],yolo_obb,general
+131,131,./data/images/3122.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+132,132,./data/images/510.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+133,133,./data/images/5794.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+134,134,./data/images/8181.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+135,135,./data/images/9418.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+136,136,./data/images/96.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+137,137,./data/images/6681.jpg,find everything in this image and give me the bounding boxes for each object,[],general,yolo_obb,[],general,[],yolo_obb,general
+138,138,./data/images/1512.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+139,139,./data/images/9960.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+140,140,./data/images/119.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+141,141,./data/images/7791.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+142,142,./data/images/6517.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+143,143,./data/images/33.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+144,144,./data/images/7887.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+145,145,./data/images/6830.jpg,find everything in this image and give me bounding boxes,[],general,yolo_obb,[],general,[],yolo_obb,general
+146,146,./data/images/5421.jpg,find everything in this image and give me the bounding boxes for each,[],general,yolo_obb,[],general,[],yolo_obb,general
+147,147,./data/images/1068.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+148,148,./data/images/1347.jpg,find everything in this image and give me the bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+149,149,./data/images/4747.jpg,find everything in this image and give me bounding boxes in JSON,[],general,yolo_obb,[],general,[],yolo_obb,general
+150,150,./data/images/6005.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+151,151,./data/images/6039.jpg,find everything in this image and give me the bounding boxes for each,[],general,yolo_obb,[],general,[],yolo_obb,general
+152,152,./data/images/3817.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+153,153,./data/images/8446.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+154,154,./data/images/5269.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+155,155,./data/images/6897.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+156,156,./data/images/5309.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+157,157,./data/images/31.jpg,find everything in this image and give me bounding boxes in JSON,[],general,yolo_obb,[],general,[],yolo_obb,general
+158,158,./data/images/5674.jpg,find everything in this image and give me bounding boxes,[],general,yolo_obb,[],general,[],yolo_obb,general
+159,159,./data/images/4386.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+160,160,./data/images/29.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+161,161,./data/images/4202.jpg,find everything in this image and give me the bounding boxes for each,[],general,yolo_obb,[],general,[],yolo_obb,general
+162,162,./data/images/7507.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+163,163,./data/images/735.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+164,164,./data/images/2067.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+165,165,./data/images/106.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+166,166,./data/images/9359.jpg,find everything in this image and give me the bounding boxes for each,[],general,yolo_obb,[],general,[],yolo_obb,general
+167,167,./data/images/8895.jpg,find everything in this image and give me the bounding boxes for each,[],general,yolo_obb,[],general,[],yolo_obb,general
+168,168,./data/images/8020.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+169,169,./data/images/2232.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+170,170,./data/images/993.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+171,171,./data/images/9413.jpg,find everything in this image and give me the bounding boxes for each,[],general,yolo_obb,[],general,[],yolo_obb,general
+172,172,./data/images/7058.jpg,find everything in this image and give me bounding boxes,[],general,yolo_obb,[],general,[],yolo_obb,general
+173,173,./data/images/6789.jpg,find everything in this image and give me bounding boxes in JSON format,[],general,yolo_obb,[],general,[],yolo_obb,general
+174,174,./data/images/360.jpg,find everything in this image and give me the bounding boxes for each object,[],general,yolo_obb,[],general,[],yolo_obb,general
+175,175,./data/images/304.jpg,find everything in this image and give me the bounding boxes for each,[],general,yolo_obb,[],general,[],yolo_obb,general
+176,176,./data/images/2627.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+177,177,./data/images/8966.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+178,178,./data/images/4513.jpg,find everything in this image and give me bounding boxes,[],general,yolo_obb,[],general,[],yolo_obb,general
+179,179,./data/images/5910.jpg,find everything in this image and give me the bounding boxes for each,[],general,yolo_obb,[],general,[],yolo_obb,general
+180,180,./data/images/8313.jpg,find everything in this image and give me bounding boxes,[],general,yolo_obb,[],general,[],yolo_obb,general
+181,181,./data/images/3100.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+182,182,./data/images/5703.jpg,find everything in this image and give me the bounding boxes in JSON format,[],general,yolo_obb,[],general,[],yolo_obb,general
+183,183,./data/images/3898.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+184,184,./data/images/5440.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+185,185,./data/images/7930.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+186,186,./data/images/621.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+187,187,./data/images/7235.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+188,188,./data/images/2498.jpg,find everything in this image and give me bounding boxes in JSON,[],general,yolo_obb,[],general,[],yolo_obb,general
+189,189,./data/images/713.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+190,190,./data/images/8403.jpg,find everything in this image and give me bounding boxes in JSON format,[],general,yolo_obb,[],general,[],yolo_obb,general
+191,191,./data/images/2855.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+192,192,./data/images/4269.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+193,193,./data/images/2908.jpg,find everything in this image and give me the bounding boxes in JSON format,[],general,yolo_obb,[],general,[],yolo_obb,general
+194,194,./data/images/8080.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+195,195,./data/images/4516.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+196,196,./data/images/1261.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+197,197,./data/images/3160.jpg,find everything in this image and give me bounding boxes in JSON format,[],general,yolo_obb,[],general,[],yolo_obb,general
+198,198,./data/images/970.jpg,find everything in this image and give me the bounding boxes for each,[],general,yolo_obb,[],general,[],yolo_obb,general
+199,199,./data/images/3912.jpg,find everything in this image and give me the bounding boxes for each,[],general,yolo_obb,[],general,[],yolo_obb,general
+200,200,./data/images/5198.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+201,201,./data/images/8847.jpg,find everything in this image and give me bounding boxes in JSON,[],general,yolo_obb,[],general,[],yolo_obb,general
+202,202,./data/images/259.jpg,find everything in this image and give me bounding boxes,[],general,yolo_obb,[],general,[],yolo_obb,general
+203,203,./data/images/3790.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+204,204,./data/images/9203.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+205,205,./data/images/487.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+206,206,./data/images/7907.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+207,207,./data/images/518.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+208,208,./data/images/8342.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+209,209,./data/images/311.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+210,210,./data/images/3231.jpg,find everything in this image and give me the bounding boxes,[],general,yolo_obb,[],general,[],yolo_obb,general
+211,211,./data/images/7932.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+212,212,./data/images/7457.jpg,find everything in this image and give me the bounding boxes for each,[],general,yolo_obb,[],general,[],yolo_obb,general
+213,213,./data/images/9784.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+214,214,./data/images/5183.jpg,find everything in this image and give me the bounding boxes in JSON,[],general,yolo_obb,[],general,[],yolo_obb,general
+215,215,./data/images/8076.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+216,216,./data/images/6501.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+217,217,./data/images/6790.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+218,218,./data/images/7772.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+219,219,./data/images/2737.jpg,find everything in this image and give me bounding boxes,[],general,yolo_obb,[],general,[],yolo_obb,general
+220,220,./data/images/7841.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+221,221,./data/images/6261.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+222,222,./data/images/8205.jpg,find everything in this image and give me the bounding boxes for each,[],general,yolo_obb,[],general,[],yolo_obb,general
+223,223,./data/images/1247.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+224,224,./data/images/9336.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+225,225,./data/images/4194.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+226,226,./data/images/8000.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+227,227,./data/images/7377.jpg,find everything in this image and give me the bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+228,228,./data/images/3434.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+229,229,./data/images/5381.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+230,230,./data/images/958.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+231,231,./data/images/416.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+232,232,./data/images/5741.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+233,233,./data/images/6727.jpg,find everything in this image and give me the bounding boxes in JSON format,[],general,yolo_obb,[],general,[],yolo_obb,general
+234,234,./data/images/4381.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+235,235,./data/images/5196.jpg,find everything in this image and give me the bounding boxes for each,[],general,yolo_obb,[],general,[],yolo_obb,general
+236,236,./data/images/1112.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+237,237,./data/images/2688.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+238,238,./data/images/6472.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+239,239,./data/images/8820.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+240,240,./data/images/7807.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+241,241,./data/images/3410.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+242,242,./data/images/80.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+243,243,./data/images/4613.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+244,244,./data/images/1373.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+245,245,./data/images/1509.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+246,246,./data/images/6442.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+247,247,./data/images/3070.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+248,248,./data/images/3015.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+249,249,./data/images/4822.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+250,250,./data/images/7821.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+251,251,./data/images/92.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+252,252,./data/images/9421.jpg,find everything in this image and give me bounding boxes in JSON,[],general,yolo_obb,[],general,[],yolo_obb,general
+253,253,./data/images/6599.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+254,254,./data/images/4442.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+255,255,./data/images/7601.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+256,256,./data/images/3834.jpg,find everything in this image and give me the bounding boxes for each,[],general,yolo_obb,[],general,[],yolo_obb,general
+257,257,./data/images/9702.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+258,258,./data/images/4321.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+259,259,./data/images/3393.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+260,260,./data/images/4751.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+261,261,./data/images/7228.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+262,262,./data/images/9191.jpg,find everything in this image and give me bounding boxes in JSON,[],general,yolo_obb,[],general,[],yolo_obb,general
+263,263,./data/images/2360.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+264,264,./data/images/1147.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+265,265,./data/images/5665.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+266,266,./data/images/8074.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+267,267,./data/images/4942.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+268,268,./data/images/3662.jpg,find everything in this image and give me the bounding boxes for each,[],general,yolo_obb,[],general,[],yolo_obb,general
+269,269,./data/images/1562.jpg,find everything in this image and give me bounding boxes in JSON format,[],general,yolo_obb,[],general,[],yolo_obb,general
+270,270,./data/images/4112.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+271,271,./data/images/9050.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+272,272,./data/images/9276.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+273,273,./data/images/8538.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+274,274,./data/images/794.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+275,275,./data/images/5853.jpg,find everything in this image and give me the bounding boxes for each object,[],general,yolo_obb,[],general,[],yolo_obb,general
+276,276,./data/images/7618.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+277,277,./data/images/1593.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+278,278,./data/images/7417.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+279,279,./data/images/5266.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+280,280,./data/images/7146.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+281,281,./data/images/88.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+282,282,./data/images/8695.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+283,283,./data/images/9732.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+284,284,./data/images/9446.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+285,285,./data/images/6753.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+286,286,./data/images/3501.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+287,287,./data/images/2233.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+288,288,./data/images/2802.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+289,289,./data/images/4423.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+290,290,./data/images/5662.jpg,find everything in this image and give me the bounding boxes for each,[],general,yolo_obb,[],general,[],yolo_obb,general
+291,291,./data/images/7169.jpg,find everything in this image and give me bounding boxes in JSON format,[],general,yolo_obb,[],general,[],yolo_obb,general
+292,292,./data/images/8336.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+293,293,./data/images/2147.jpg,find everything in this image and give me the bounding boxes in JSON format,[],general,yolo_obb,[],general,[],yolo_obb,general
+294,294,./data/images/7968.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+295,295,./data/images/6550.jpg,find everything in this image and give me bounding boxes in JSON format,[],general,yolo_obb,[],general,[],yolo_obb,general
+296,296,./data/images/7642.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+297,297,./data/images/6163.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+298,298,./data/images/1494.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+299,299,./data/images/7695.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+300,300,./data/images/7093.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+301,301,./data/images/1408.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+302,302,./data/images/6690.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+303,303,./data/images/3400.jpg,find everything in this image and give me the bounding boxes for each,[],general,yolo_obb,[],general,[],yolo_obb,general
+304,304,./data/images/108.jpg,find everything in this image and give me the bounding boxes for each,[],general,yolo_obb,[],general,[],yolo_obb,general
+305,305,./data/images/5635.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+306,306,./data/images/8481.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+307,307,./data/images/6603.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+308,308,./data/images/1090.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+309,309,./data/images/5559.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+310,310,./data/images/9412.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+311,311,./data/images/8142.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+312,312,./data/images/8664.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+313,313,./data/images/6595.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+314,314,./data/images/623.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+315,315,./data/images/6870.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+316,316,./data/images/4813.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+317,317,./data/images/6552.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+318,318,./data/images/7529.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+319,319,./data/images/5795.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+320,320,./data/images/7436.jpg,find everything in this image and give me the bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+321,321,./data/images/4217.jpg,find everything in this image and give me the bounding boxes for each,[],general,yolo_obb,[],general,[],yolo_obb,general
+322,322,./data/images/5940.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+323,323,./data/images/8500.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+324,324,./data/images/6428.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+325,325,./data/images/6826.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+326,326,./data/images/4130.jpg,find everything in this image and give me bounding boxes,[],general,yolo_obb,[],general,[],yolo_obb,general
+327,327,./data/images/7801.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+328,328,./data/images/7753.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+329,329,./data/images/4721.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+330,330,./data/images/1650.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+331,331,./data/images/4140.jpg,"detect all the stuff in this pic, json pls",[],general,yolo_obb,[],general,[],yolo_obb,general
+332,332,./data/images/1617.jpg,find everything in this image and give me bounding boxes in json format,[],general,yolo_obb,[],general,[],yolo_obb,general
+333,333,./data/images/2029.jpg,find everything in this image and give me bounding boxes in json,[],general,yolo_obb,[],general,[],yolo_obb,general
+334,334,./data/images/8518.jpg,where's the swimming pool in this picture?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+335,335,./data/images/4575.jpg,where are the small vehicles in this image?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+336,336,./data/images/3992.jpg,where are the small vehicles in this aerial view?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+337,337,./data/images/7376.jpg,where is the storage tank in this image?,['storage tank'],dota,grounding_dino,['storage tank'],open_vocab,['storage tank'],yolo_obb,dota
+338,338,./data/images/6149.jpg,where's the ground track field in this image?,['ground track field'],dota,yolo_obb,['ground track field'],dota,['ground track field'],yolo_obb,dota
+339,339,./data/images/4908.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+340,340,./data/images/5026.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+341,341,./data/images/8260.jpg,where's the bridge in this picture?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+342,342,./data/images/4731.jpg,where are the small vehicles in this image?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+343,343,./data/images/7548.jpg,where's the swimming pool in this picture?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+344,344,./data/images/8134.jpg,where are the tennis courts in this image?,['tennis court'],dota,yolo_obb,['tennis court'],dota,['tennis court'],yolo_obb,dota
+345,345,./data/images/1606.jpg,where's the bridge in this picture?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+346,346,./data/images/4773.jpg,where are the small vehicles in this image?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+347,347,./data/images/8109.jpg,where's the ground track field in this image?,['ground track field'],dota,yolo_obb,['ground track field'],dota,['ground track field'],yolo_obb,dota
+348,348,./data/images/6951.jpg,find the harbor in this image,['harbor'],dota,yolo_obb,['harbor'],dota,['harbor'],yolo_obb,dota
+349,349,./data/images/6004.jpg,find the ground track field in this image,['ground track field'],dota,yolo_obb,['ground track field'],dota,"['ground track field', 'field']",grounding_dino,open_vocab
+350,350,./data/images/7728.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+351,351,./data/images/3541.jpg,where is the large vehicle in this aerial shot?,['large vehicle'],dota,yolo_obb,['large vehicle'],dota,['large vehicle'],yolo_obb,dota
+352,352,./data/images/388.jpg,where's the large vehicle in this picture?,['large vehicle'],dota,yolo_obb,['large vehicle'],dota,['large vehicle'],yolo_obb,dota
+353,353,./data/images/1794.jpg,where's the roundabout in this picture?,['roundabout'],dota,yolo_obb,['roundabout'],dota,['roundabout'],yolo_obb,dota
+354,354,./data/images/8732.jpg,where is the roundabout in this image?,['roundabout'],dota,grounding_dino,['roundabout'],open_vocab,['roundabout'],yolo_obb,dota
+355,355,./data/images/4919.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+356,356,./data/images/5537.jpg,find all the small vehicles in this parking lot,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,"['small vehicle', 'vehicles']",grounding_dino,open_vocab
+357,357,./data/images/3872.jpg,where is the bridge in this image?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+358,358,./data/images/8869.jpg,where are the small vehicles in this image?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+359,359,./data/images/2254.jpg,where's the tennis court in this picture?,['tennis court'],dota,yolo_obb,['tennis court'],dota,['tennis court'],yolo_obb,dota
+360,360,./data/images/3412.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+361,361,./data/images/5459.jpg,where is the ground track field in this image?,['ground track field'],dota,grounding_dino,['ground track field'],open_vocab,['ground track field'],yolo_obb,dota
+362,362,./data/images/4955.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+363,363,./data/images/7396.jpg,where's the ground track field in this image?,['ground track field'],dota,yolo_obb,['ground track field'],dota,['ground track field'],yolo_obb,dota
+364,364,./data/images/5414.jpg,where is the bridge in this aerial view?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+365,365,./data/images/7399.jpg,where's the tennis court in this aerial view?,['tennis court'],dota,yolo_obb,['tennis court'],dota,['tennis court'],yolo_obb,dota
+366,366,./data/images/7414.jpg,where's the tennis court in this aerial view?,['tennis court'],dota,yolo_obb,['tennis court'],dota,['tennis court'],yolo_obb,dota
+367,367,./data/images/9101.jpg,where is the ground track field in this image?,['ground track field'],dota,yolo_obb,['ground track field'],dota,['ground track field'],yolo_obb,dota
+368,368,./data/images/4851.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+369,369,./data/images/2025.jpg,where's the roundabout in this aerial view?,['roundabout'],dota,yolo_obb,['roundabout'],dota,['roundabout'],yolo_obb,dota
+370,370,./data/images/2615.jpg,where are the small vehicles in this aerial view?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+371,371,./data/images/7388.jpg,where's the tennis court in this image?,['tennis court'],dota,yolo_obb,['tennis court'],dota,['tennis court'],yolo_obb,dota
+372,372,./data/images/2926.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+373,373,./data/images/1121.jpg,where is the swimming pool in this image?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+374,374,./data/images/2910.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+375,375,./data/images/8146.jpg,where's the soccer ball field in this image?,['soccer ball field'],dota,yolo_obb,['soccer ball field'],dota,['soccer ball field'],yolo_obb,dota
+376,376,./data/images/7383.jpg,where's the swimming pool in this image?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+377,377,./data/images/3482.jpg,where is the bridge in this image?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+378,378,./data/images/795.jpg,where's the baseball diamond in this image?,['baseball diamond'],dota,yolo_obb,['baseball diamond'],dota,['baseball diamond'],yolo_obb,dota
+379,379,./data/images/1575.jpg,where's the bridge in this picture?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+380,380,./data/images/6176.jpg,find the soccer ball field in the image,['soccer ball field'],dota,yolo_obb,['soccer ball field'],dota,"['soccer ball field', 'field']",grounding_dino,open_vocab
+381,381,./data/images/6266.jpg,where's the swimming pool in this picture?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+382,382,./data/images/2458.jpg,where's the bridge in this aerial view?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+383,383,./data/images/3312.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+384,384,./data/images/1253.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+385,385,./data/images/6834.jpg,find the harbor in this image,['harbor'],dota,yolo_obb,['harbor'],dota,['harbor'],yolo_obb,dota
+386,386,./data/images/9036.jpg,where's the soccer ball field in this image?,['soccer ball field'],dota,yolo_obb,['soccer ball field'],dota,['soccer ball field'],yolo_obb,dota
+387,387,./data/images/3837.jpg,where are the small vehicles in this image?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+388,388,./data/images/4398.jpg,where's the storage tank in this image?,['storage tank'],dota,grounding_dino,['storage tank'],open_vocab,['storage tank'],yolo_obb,dota
+389,389,./data/images/3595.jpg,where's the bridge in this image?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+390,390,./data/images/6621.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+391,391,./data/images/8382.jpg,where's the swimming pool in this picture?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+392,392,./data/images/2124.jpg,where are the small vehicles in this aerial view?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+393,393,./data/images/3238.jpg,where is the bridge in this image?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+394,394,./data/images/5403.jpg,where's the baseball diamond in this picture?,['baseball diamond'],dota,yolo_obb,['baseball diamond'],dota,['baseball diamond'],yolo_obb,dota
+395,395,./data/images/5998.jpg,find the soccer ball field in this image,['soccer ball field'],dota,yolo_obb,['soccer ball field'],dota,"['soccer ball field', 'field']",grounding_dino,open_vocab
+396,396,./data/images/5938.jpg,find the soccer ball field in this image,['soccer ball field'],dota,yolo_obb,['soccer ball field'],dota,"['soccer ball field', 'field']",grounding_dino,open_vocab
+397,397,./data/images/2045.jpg,where's the bridge in this aerial view?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+398,398,./data/images/1578.jpg,where is the bridge in this image?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+399,399,./data/images/14.jpg,where are the planes in this airport photo?,['plane'],dota,yolo_obb,['plane'],dota,['plane'],yolo_obb,dota
+400,400,./data/images/2673.jpg,where are the small vehicles in this aerial view?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+401,401,./data/images/7016.jpg,where is the harbor in this image?,['harbor'],dota,grounding_dino,['harbor'],open_vocab,['harbor'],yolo_obb,dota
+402,402,./data/images/8721.jpg,where's the basketball court in this aerial view?,['basketball court'],dota,yolo_obb,['basketball court'],dota,['basketball court'],yolo_obb,dota
+403,403,./data/images/8850.jpg,where is the ground track field in this image?,['ground track field'],dota,grounding_dino,['ground track field'],open_vocab,['ground track field'],yolo_obb,dota
+404,404,./data/images/4812.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+405,405,./data/images/1084.jpg,where is the ship in this image?,['ship'],dota,grounding_dino,['ship'],open_vocab,['ship'],yolo_obb,dota
+406,406,./data/images/4983.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+407,407,./data/images/7155.jpg,where is the bridge in this image?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+408,408,./data/images/2884.jpg,where is the bridge in this image?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+409,409,./data/images/333.jpg,where are the planes in this image?,['plane'],dota,yolo_obb,['plane'],dota,['plane'],yolo_obb,dota
+410,410,./data/images/7204.jpg,where's the plane in this image?,['plane'],dota,yolo_obb,['plane'],dota,['plane'],yolo_obb,dota
+411,411,./data/images/4367.jpg,where is the plane in this image?,['plane'],dota,yolo_obb,['plane'],dota,['plane'],yolo_obb,dota
+412,412,./data/images/3079.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+413,413,./data/images/7203.jpg,where's the bridge in this aerial view?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+414,414,./data/images/9910.jpg,where's the roundabout in this image?,['roundabout'],dota,yolo_obb,['roundabout'],dota,['roundabout'],yolo_obb,dota
+415,415,./data/images/9323.jpg,find the storage tank in this image,['storage tank'],dota,yolo_obb,['storage tank'],dota,"['tank', 'storage tank']",grounding_dino,open_vocab
+416,416,./data/images/263.jpg,where are the planes in this airport photo?,['plane'],dota,yolo_obb,['plane'],dota,['plane'],yolo_obb,dota
+417,417,./data/images/4337.jpg,find the soccer ball field in this image,['soccer ball field'],dota,yolo_obb,['soccer ball field'],dota,"['soccer ball field', 'field']",grounding_dino,open_vocab
+418,418,./data/images/8896.jpg,where is the roundabout in this image?,['roundabout'],dota,grounding_dino,['roundabout'],open_vocab,['roundabout'],yolo_obb,dota
+419,419,./data/images/8447.jpg,where's the swimming pool in this aerial view?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+420,420,./data/images/5903.jpg,where's the soccer ball field in this image?,['soccer ball field'],dota,yolo_obb,['soccer ball field'],dota,['soccer ball field'],yolo_obb,dota
+421,421,./data/images/1498.jpg,where is the bridge in this image?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+422,422,./data/images/4190.jpg,where's the storage tank in this image?,['storage tank'],dota,grounding_dino,['storage tank'],open_vocab,['storage tank'],yolo_obb,dota
+423,423,./data/images/7485.jpg,where's the swimming pool in this picture?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+424,424,./data/images/9644.jpg,find the small vehicles on the roads in this aerial view,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,"['small vehicle', 'vehicles']",grounding_dino,open_vocab
+425,425,./data/images/8310.jpg,where are the small vehicles parked in this aerial view?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+426,426,./data/images/7590.jpg,where's the bridge in this picture?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+427,427,./data/images/500.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+428,428,./data/images/9156.jpg,where is the ground track field in this image?,['ground track field'],dota,yolo_obb,['ground track field'],dota,['ground track field'],yolo_obb,dota
+429,429,./data/images/9415.jpg,find the storage tank in this image,['storage tank'],dota,yolo_obb,['storage tank'],dota,"['tank', 'storage tank']",grounding_dino,open_vocab
+430,430,./data/images/3095.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+431,431,./data/images/4631.jpg,where are the small vehicles in this aerial view?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+432,432,./data/images/367.jpg,where are the small vehicles in this image?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+433,433,./data/images/4058.jpg,where's the ground track field in this image?,['ground track field'],dota,yolo_obb,['ground track field'],dota,['ground track field'],yolo_obb,dota
+434,434,./data/images/8174.jpg,where's the roundabout in this image?,['roundabout'],dota,yolo_obb,['roundabout'],dota,['roundabout'],yolo_obb,dota
+435,435,./data/images/4630.jpg,where's the swimming pool in this image?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+436,436,./data/images/6070.jpg,find the ground track field in this image,['ground track field'],dota,yolo_obb,['ground track field'],dota,"['ground track field', 'field']",grounding_dino,open_vocab
+437,437,./data/images/2664.jpg,where are the small vehicles in this aerial view?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+438,438,./data/images/1026.jpg,where is the ship in this image?,['ship'],dota,grounding_dino,['ship'],open_vocab,['ship'],yolo_obb,dota
+439,439,./data/images/5908.jpg,where is the soccer ball field in this image?,['soccer ball field'],dota,yolo_obb,['soccer ball field'],dota,['soccer ball field'],yolo_obb,dota
+440,440,./data/images/5050.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+441,441,./data/images/6328.jpg,where is the swimming pool in this image?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+442,442,./data/images/9734.jpg,where is the roundabout in this image?,['roundabout'],dota,grounding_dino,['roundabout'],open_vocab,['roundabout'],yolo_obb,dota
+443,443,./data/images/1691.jpg,where's the basketball court in this aerial view?,['basketball court'],dota,yolo_obb,['basketball court'],dota,['basketball court'],yolo_obb,dota
+444,444,./data/images/673.jpg,find the baseball diamond in this image,['baseball diamond'],dota,yolo_obb,['baseball diamond'],dota,"['baseball diamond', 'diamond']",grounding_dino,open_vocab
+445,445,./data/images/5572.jpg,find all the small vehicles in this parking lot,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,"['small vehicle', 'vehicles']",grounding_dino,open_vocab
+446,446,./data/images/5766.jpg,find all the small vehicles in this parking lot,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,"['small vehicle', 'vehicles']",grounding_dino,open_vocab
+447,447,./data/images/5156.jpg,where's the ground track field in this image?,['ground track field'],dota,yolo_obb,['ground track field'],dota,['ground track field'],yolo_obb,dota
+448,448,./data/images/733.jpg,where's the baseball diamond in this aerial view?,['baseball diamond'],dota,yolo_obb,['baseball diamond'],dota,['baseball diamond'],yolo_obb,dota
+449,449,./data/images/3526.jpg,where's the bridge in this aerial view?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+450,450,./data/images/568.jpg,where's the ground track field in this image?,['ground track field'],dota,yolo_obb,['ground track field'],dota,['ground track field'],yolo_obb,dota
+451,451,./data/images/9188.jpg,where is the soccer ball field in this image?,['soccer ball field'],dota,yolo_obb,['soccer ball field'],dota,['soccer ball field'],yolo_obb,dota
+452,452,./data/images/2922.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+453,453,./data/images/7911.jpg,where's the bridge in this picture?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+454,454,./data/images/1558.jpg,where is the bridge in this image?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+455,455,./data/images/101.jpg,where are the planes in this image?,['plane'],dota,yolo_obb,['plane'],dota,['plane'],yolo_obb,dota
+456,456,./data/images/3007.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+457,457,./data/images/7201.jpg,where is the bridge in this image?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+458,458,./data/images/303.jpg,where are the planes in this image?,['plane'],dota,yolo_obb,['plane'],dota,['plane'],yolo_obb,dota
+459,459,./data/images/76.jpg,where's the storage tank in this aerial view?,['storage tank'],dota,yolo_obb,['storage tank'],dota,['storage tank'],yolo_obb,dota
+460,460,./data/images/6754.jpg,find the harbor in this image,['harbor'],dota,yolo_obb,['harbor'],dota,['harbor'],yolo_obb,dota
+461,461,./data/images/8630.jpg,where's the roundabout in this aerial view?,['roundabout'],dota,yolo_obb,['roundabout'],dota,['roundabout'],yolo_obb,dota
+462,462,./data/images/1208.jpg,where is the ship in this image?,['ship'],dota,grounding_dino,['ship'],open_vocab,['ship'],yolo_obb,dota
+463,463,./data/images/7742.jpg,where is the bridge in this image?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+464,464,./data/images/8214.jpg,where's the tennis court in this aerial view?,['tennis court'],dota,yolo_obb,['tennis court'],dota,['tennis court'],yolo_obb,dota
+465,465,./data/images/9542.jpg,where are the storage tanks in this image?,['storage tank'],dota,yolo_obb,['storage tank'],dota,['storage tank'],yolo_obb,dota
+466,466,./data/images/8413.jpg,where is the swimming pool in this image?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+467,467,./data/images/1775.jpg,where is the basketball court in this image?,['basketball court'],dota,yolo_obb,['basketball court'],dota,['basketball court'],yolo_obb,dota
+468,468,./data/images/3473.jpg,where's the bridge in this aerial view?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+469,469,./data/images/483.jpg,where is the storage tank in this image?,['storage tank'],dota,grounding_dino,['storage tank'],open_vocab,['storage tank'],yolo_obb,dota
+470,470,./data/images/2189.jpg,where's the swimming pool in this aerial view?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+471,471,./data/images/346.jpg,where are the planes in this image?,['plane'],dota,yolo_obb,['plane'],dota,['plane'],yolo_obb,dota
+472,472,./data/images/5481.jpg,find all the small vehicles in this parking lot,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,"['small vehicle', 'vehicles']",grounding_dino,open_vocab
+473,473,./data/images/8361.jpg,where are the small vehicles in this image?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+474,474,./data/images/1472.jpg,where is the bridge in this image?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+475,475,./data/images/5100.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+476,476,./data/images/6765.jpg,where's the harbor in this picture?,['harbor'],dota,grounding_dino,['harbor'],open_vocab,['harbor'],yolo_obb,dota
+477,477,./data/images/8707.jpg,where are the small vehicles in this aerial view?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+478,478,./data/images/4929.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+479,479,./data/images/6329.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+480,480,./data/images/2609.jpg,where are the small vehicles in this aerial view?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+481,481,./data/images/3.jpg,where are the planes parked at this airport?,['plane'],dota,yolo_obb,['plane'],dota,['plane'],yolo_obb,dota
+482,482,./data/images/2213.jpg,where's the bridge in this picture?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+483,483,./data/images/4827.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+484,484,./data/images/856.jpg,find the baseball diamond in this image,['baseball diamond'],dota,yolo_obb,['baseball diamond'],dota,"['baseball diamond', 'diamond']",grounding_dino,open_vocab
+485,485,./data/images/6977.jpg,find the harbor in this image,['harbor'],dota,yolo_obb,['harbor'],dota,['harbor'],yolo_obb,dota
+486,486,./data/images/5885.jpg,find the soccer ball field in this image,['soccer ball field'],dota,yolo_obb,['soccer ball field'],dota,"['soccer ball field', 'field']",grounding_dino,open_vocab
+487,487,./data/images/624.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+488,488,./data/images/290.jpg,find all the planes in this airport photo,['plane'],dota,yolo_obb,['plane'],dota,"['plane', 'planes']",grounding_dino,open_vocab
+489,489,./data/images/2018.jpg,where are the small vehicles parked around this building?,['small vehicle'],dota,grounding_dino,"['small vehicle', 'building']",open_vocab,['small vehicle'],yolo_obb,dota
+490,490,./data/images/668.jpg,where are the small vehicles in this image?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+491,491,./data/images/8922.jpg,where are the small vehicles in this image?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+492,492,./data/images/8264.jpg,where is the roundabout in this image?,['roundabout'],dota,grounding_dino,['roundabout'],open_vocab,['roundabout'],yolo_obb,dota
+493,493,./data/images/9697.jpg,find all the small vehicles in this aerial view of the highway interchange,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,"['small vehicle', 'vehicles']",grounding_dino,open_vocab
+494,494,./data/images/1631.jpg,where is the bridge in this image?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+495,495,./data/images/5170.jpg,where is the bridge in this image?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+496,496,./data/images/7205.jpg,where are the large vehicles in this image?,['large vehicle'],dota,yolo_obb,['large vehicle'],dota,['large vehicle'],yolo_obb,dota
+497,497,./data/images/2522.jpg,where are the swimming pools in this neighborhood?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+498,498,./data/images/2215.jpg,where's the bridge in this aerial view?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+499,499,./data/images/6968.jpg,where's the harbor in this picture?,['harbor'],dota,grounding_dino,['harbor'],open_vocab,['harbor'],yolo_obb,dota
+500,500,./data/images/6496.jpg,where's the bridge in this picture?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+501,501,./data/images/6213.jpg,where is the soccer ball field in this image?,['soccer ball field'],dota,yolo_obb,['soccer ball field'],dota,['soccer ball field'],yolo_obb,dota
+502,502,./data/images/7032.jpg,where's the harbor in this picture?,['harbor'],dota,grounding_dino,['harbor'],open_vocab,['harbor'],yolo_obb,dota
+503,503,./data/images/7420.jpg,where's the roundabout in this image?,['roundabout'],dota,yolo_obb,['roundabout'],dota,['roundabout'],yolo_obb,dota
+504,504,./data/images/1107.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+505,505,./data/images/450.jpg,where's the large vehicle in this aerial shot?,['large vehicle'],dota,yolo_obb,['large vehicle'],dota,['large vehicle'],yolo_obb,dota
+506,506,./data/images/6289.jpg,where is the swimming pool in this image?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+507,507,./data/images/9967.jpg,where is the bridge in this image?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+508,508,./data/images/135.jpg,find the plane in this image,['plane'],dota,yolo_obb,['plane'],dota,['plane'],yolo_obb,dota
+509,509,./data/images/1785.jpg,where's the ground track field in this image?,['ground track field'],dota,yolo_obb,['ground track field'],dota,['ground track field'],yolo_obb,dota
+510,510,./data/images/3404.jpg,where is the bridge in this image?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+511,511,./data/images/2906.jpg,where's the swimming pool in this image?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+512,512,./data/images/8304.jpg,where's the small vehicle in this aerial shot?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+513,513,./data/images/7492.jpg,where are the swimming pools in this image?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+514,514,./data/images/6100.jpg,where is the soccer ball field in this image?,['soccer ball field'],dota,yolo_obb,['soccer ball field'],dota,['soccer ball field'],yolo_obb,dota
+515,515,./data/images/4504.jpg,where are the small vehicles in this image?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+516,516,./data/images/5053.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+517,517,./data/images/5205.jpg,where is the bridge in this image?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+518,518,./data/images/4080.jpg,where's the roundabout in this picture?,['roundabout'],dota,yolo_obb,['roundabout'],dota,['roundabout'],yolo_obb,dota
+519,519,./data/images/6918.jpg,find the harbor in this image and mark its location,['harbor'],dota,grounding_dino,['harbor'],open_vocab,['harbor'],yolo_obb,dota
+520,520,./data/images/6802.jpg,find the harbor in this image,['harbor'],dota,yolo_obb,['harbor'],dota,['harbor'],yolo_obb,dota
+521,521,./data/images/5206.jpg,where's the swimming pool in this image?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+522,522,./data/images/532.jpg,where's the bridge in this picture?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+523,523,./data/images/4830.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+524,524,./data/images/4038.jpg,where's the tennis court in this picture?,['tennis court'],dota,yolo_obb,['tennis court'],dota,['tennis court'],yolo_obb,dota
+525,525,./data/images/4084.jpg,where are the storage tanks in this image?,['storage tank'],dota,yolo_obb,['storage tank'],dota,['storage tank'],yolo_obb,dota
+526,526,./data/images/3204.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+527,527,./data/images/7110.jpg,where are the large vehicles in this image?,['large vehicle'],dota,yolo_obb,['large vehicle'],dota,['large vehicle'],yolo_obb,dota
+528,528,./data/images/330.jpg,where are the planes in this airport photo?,['plane'],dota,yolo_obb,['plane'],dota,['plane'],yolo_obb,dota
+529,529,./data/images/4957.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+530,530,./data/images/3033.jpg,where is the ship in this image?,['ship'],dota,grounding_dino,['ship'],open_vocab,['ship'],yolo_obb,dota
+531,531,./data/images/7684.jpg,where's the bridge in this image?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+532,532,./data/images/1597.jpg,where is the bridge in this picture?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+533,533,./data/images/8572.jpg,where's the swimming pool in this image?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+534,534,./data/images/3597.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+535,535,./data/images/9039.jpg,find the soccer ball field in this image,['soccer ball field'],dota,yolo_obb,['soccer ball field'],dota,"['soccer ball field', 'field']",grounding_dino,open_vocab
+536,536,./data/images/8001.jpg,where's the baseball diamond in this aerial view?,['baseball diamond'],dota,yolo_obb,['baseball diamond'],dota,['baseball diamond'],yolo_obb,dota
+537,537,./data/images/590.jpg,where is the bridge in this image?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+538,538,./data/images/647.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+539,539,./data/images/9103.jpg,find the ground track field in this image,['ground track field'],dota,yolo_obb,['ground track field'],dota,"['ground track field', 'field']",grounding_dino,open_vocab
+540,540,./data/images/8015.jpg,where's the roundabout in this image?,['roundabout'],dota,yolo_obb,['roundabout'],dota,['roundabout'],yolo_obb,dota
+541,541,./data/images/3771.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+542,542,./data/images/9040.jpg,find the soccer ball field in the image,['soccer ball field'],dota,yolo_obb,['soccer ball field'],dota,"['soccer ball field', 'field']",grounding_dino,open_vocab
+543,543,./data/images/5082.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+544,544,./data/images/7882.jpg,where's the bridge in this picture?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+545,545,./data/images/9363.jpg,find the storage tank in this image,['storage tank'],dota,yolo_obb,['storage tank'],dota,"['tank', 'storage tank']",grounding_dino,open_vocab
+546,546,./data/images/4210.jpg,where are the large vehicles in this image?,['large vehicle'],dota,yolo_obb,['large vehicle'],dota,['large vehicle'],yolo_obb,dota
+547,547,./data/images/8835.jpg,where is the roundabout in this image?,['roundabout'],dota,grounding_dino,['roundabout'],open_vocab,['roundabout'],yolo_obb,dota
+548,548,./data/images/8700.jpg,where are the small vehicles parked in this area?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+549,549,./data/images/1795.jpg,where's the roundabout in this image?,['roundabout'],dota,yolo_obb,['roundabout'],dota,['roundabout'],yolo_obb,dota
+550,550,./data/images/2586.jpg,where's the roundabout in this image?,['roundabout'],dota,yolo_obb,['roundabout'],dota,['roundabout'],yolo_obb,dota
+551,551,./data/images/8355.jpg,where's the bridge in this image?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+552,552,./data/images/2316.jpg,where is the bridge in this aerial view?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+553,553,./data/images/4185.jpg,where are the large vehicles in this image?,['large vehicle'],dota,yolo_obb,['large vehicle'],dota,['large vehicle'],yolo_obb,dota
+554,554,./data/images/8828.jpg,where is the roundabout in this image?,['roundabout'],dota,grounding_dino,['roundabout'],open_vocab,['roundabout'],yolo_obb,dota
+555,555,./data/images/7072.jpg,where's the bridge in this aerial view?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+556,556,./data/images/5234.jpg,where's the tennis court in this aerial view?,['tennis court'],dota,yolo_obb,['tennis court'],dota,['tennis court'],yolo_obb,dota
+557,557,./data/images/8744.jpg,where is the roundabout in this image?,['roundabout'],dota,grounding_dino,['roundabout'],open_vocab,['roundabout'],yolo_obb,dota
+558,558,./data/images/8671.jpg,where are the small vehicles parked in this area?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+559,559,./data/images/4768.jpg,where's the bridge in this aerial view?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+560,560,./data/images/9168.jpg,where's the soccer ball field in this image?,['soccer ball field'],dota,yolo_obb,['soccer ball field'],dota,['soccer ball field'],yolo_obb,dota
+561,561,./data/images/7144.jpg,where's the bridge in this picture?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+562,562,./data/images/2913.jpg,where's the storage tank in this image?,['storage tank'],dota,grounding_dino,['storage tank'],open_vocab,['storage tank'],yolo_obb,dota
+563,563,./data/images/9872.jpg,where is the bridge in this picture?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+564,564,./data/images/9894.jpg,where's the ground track field in this image?,['ground track field'],dota,yolo_obb,['ground track field'],dota,['ground track field'],yolo_obb,dota
+565,565,./data/images/2075.jpg,where are the small vehicles in this image?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+566,566,./data/images/4302.jpg,where is the bridge in this image?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+567,567,./data/images/5822.jpg,find all the small vehicles in this parking lot,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,"['small vehicle', 'vehicles']",grounding_dino,open_vocab
+568,568,./data/images/2149.jpg,find all the small vehicles in this image,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,"['small vehicle', 'vehicles']",grounding_dino,open_vocab
+569,569,./data/images/144.jpg,where are the planes in this airport photo?,['plane'],dota,yolo_obb,['plane'],dota,['plane'],yolo_obb,dota
+570,570,./data/images/4963.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+571,571,./data/images/8159.jpg,where's the swimming pool in this image?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+572,572,./data/images/9031.jpg,where's the soccer ball field in this image?,['soccer ball field'],dota,yolo_obb,['soccer ball field'],dota,['soccer ball field'],yolo_obb,dota
+573,573,./data/images/4775.jpg,where's the swimming pool in this aerial view?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+574,574,./data/images/8934.jpg,find the soccer ball field in this image,['soccer ball field'],dota,yolo_obb,['soccer ball field'],dota,"['soccer ball field', 'field']",grounding_dino,open_vocab
+575,575,./data/images/7749.jpg,where is the roundabout in this image?,['roundabout'],dota,grounding_dino,['roundabout'],open_vocab,['roundabout'],yolo_obb,dota
+576,576,./data/images/9829.jpg,where is the bridge in this picture?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+577,577,./data/images/9215.jpg,where is the soccer ball field in this image?,['soccer ball field'],dota,yolo_obb,['soccer ball field'],dota,['soccer ball field'],yolo_obb,dota
+578,578,./data/images/6060.jpg,find the ground track field in this image,['ground track field'],dota,yolo_obb,['ground track field'],dota,"['ground track field', 'field']",grounding_dino,open_vocab
+579,579,./data/images/9476.jpg,find all the storage tanks in this image,['storage tank'],dota,yolo_obb,['storage tank'],dota,"['storage tank', 'tanks']",grounding_dino,open_vocab
+580,580,./data/images/6409.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+581,581,./data/images/3317.jpg,find the ship in this image,['ship'],dota,yolo_obb,['ship'],dota,['ship'],yolo_obb,dota
+582,582,./data/images/7464.jpg,where's the tennis court in this picture?,['tennis court'],dota,yolo_obb,['tennis court'],dota,['tennis court'],yolo_obb,dota
+583,583,./data/images/3061.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+584,584,./data/images/1355.jpg,where is the bridge in this image?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+585,585,./data/images/4514.jpg,where are the small vehicles in this image?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+586,586,./data/images/5505.jpg,find all the small vehicles in this parking lot,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,"['small vehicle', 'vehicles']",grounding_dino,open_vocab
+587,587,./data/images/5250.jpg,where is the bridge in this image?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+588,588,./data/images/4511.jpg,where are the small vehicles in this image?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+589,589,./data/images/1730.jpg,where's the bridge in this image?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+590,590,./data/images/1758.jpg,where is the storage tank in this image?,['storage tank'],dota,grounding_dino,['storage tank'],open_vocab,['storage tank'],yolo_obb,dota
+591,591,./data/images/6650.jpg,where is the swimming pool in this image?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+592,592,./data/images/6646.jpg,where is the swimming pool in this image?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+593,593,./data/images/9861.jpg,where is the bridge in this image?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+594,594,./data/images/4139.jpg,where are the large vehicles in this aerial view?,['large vehicle'],dota,yolo_obb,['large vehicle'],dota,['large vehicle'],yolo_obb,dota
+595,595,./data/images/9394.jpg,where are the storage tanks in this image?,['storage tank'],dota,yolo_obb,['storage tank'],dota,['storage tank'],yolo_obb,dota
+596,596,./data/images/5123.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+597,597,./data/images/0.jpg,where are the planes parked at this airport?,['plane'],dota,yolo_obb,['plane'],dota,['plane'],yolo_obb,dota
+598,598,./data/images/1864.jpg,where is the roundabout in this image?,['roundabout'],dota,grounding_dino,['roundabout'],open_vocab,['roundabout'],yolo_obb,dota
+599,599,./data/images/543.jpg,where's the large vehicle in this picture?,['large vehicle'],dota,yolo_obb,['large vehicle'],dota,['large vehicle'],yolo_obb,dota
+600,600,./data/images/349.jpg,where are the planes in this image?,['plane'],dota,yolo_obb,['plane'],dota,['plane'],yolo_obb,dota
+601,601,./data/images/6906.jpg,find the harbor in this image,['harbor'],dota,yolo_obb,['harbor'],dota,['harbor'],yolo_obb,dota
+602,602,./data/images/9766.jpg,where is the roundabout in this image?,['roundabout'],dota,grounding_dino,['roundabout'],open_vocab,['roundabout'],yolo_obb,dota
+603,603,./data/images/2523.jpg,find all the small vehicles in this image,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,"['small vehicle', 'vehicles']",grounding_dino,open_vocab
+604,604,./data/images/3464.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+605,605,./data/images/457.jpg,where's the large vehicle in this aerial shot?,['large vehicle'],dota,yolo_obb,['large vehicle'],dota,['large vehicle'],yolo_obb,dota
+606,606,./data/images/3023.jpg,where is the swimming pool in this image?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+607,607,./data/images/7261.jpg,where is the bridge in this image?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+608,608,./data/images/9516.jpg,where are the storage tanks in this image?,['storage tank'],dota,yolo_obb,['storage tank'],dota,['storage tank'],yolo_obb,dota
+609,609,./data/images/7872.jpg,where's the bridge in this picture?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+610,610,./data/images/6625.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+611,611,./data/images/2534.jpg,where are the small vehicles in this image?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+612,612,./data/images/131.jpg,where are the planes parked at this airport?,['plane'],dota,yolo_obb,['plane'],dota,['plane'],yolo_obb,dota
+613,613,./data/images/3704.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+614,614,./data/images/1372.jpg,where's the bridge in this picture?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+615,615,./data/images/6200.jpg,where's the ground track field in this image?,['ground track field'],dota,yolo_obb,['ground track field'],dota,['ground track field'],yolo_obb,dota
+616,616,./data/images/4856.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+617,617,./data/images/4712.jpg,where are the small vehicles in this image?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+618,618,./data/images/5544.jpg,where are the small vehicles parked in this lot?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+619,619,./data/images/1413.jpg,where is the bridge in this image?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+620,620,./data/images/4113.jpg,where's the roundabout in this image?,['roundabout'],dota,yolo_obb,['roundabout'],dota,['roundabout'],yolo_obb,dota
+621,621,./data/images/655.jpg,where is the ship in this image?,['ship'],dota,grounding_dino,['ship'],open_vocab,['ship'],yolo_obb,dota
+622,622,./data/images/8137.jpg,where's the basketball court in this aerial view?,['basketball court'],dota,yolo_obb,['basketball court'],dota,['basketball court'],yolo_obb,dota
+623,623,./data/images/4098.jpg,where's the roundabout in this image?,['roundabout'],dota,yolo_obb,['roundabout'],dota,['roundabout'],yolo_obb,dota
+624,624,./data/images/592.jpg,where's the large vehicle in this aerial shot?,['large vehicle'],dota,yolo_obb,['large vehicle'],dota,['large vehicle'],yolo_obb,dota
+625,625,./data/images/8709.jpg,find the roundabout in this image,['roundabout'],dota,yolo_obb,['roundabout'],dota,['roundabout'],yolo_obb,dota
+626,626,./data/images/3123.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+627,627,./data/images/3047.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+628,628,./data/images/3887.jpg,where's the roundabout in this image?,['roundabout'],dota,yolo_obb,['roundabout'],dota,['roundabout'],yolo_obb,dota
+629,629,./data/images/5735.jpg,where are the small vehicles parked in this lot?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+630,630,./data/images/2184.jpg,where is the bridge in this picture?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+631,631,./data/images/2145.jpg,where's the swimming pool in this aerial view?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+632,632,./data/images/7047.jpg,where is the bridge in this image?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+633,633,./data/images/3105.jpg,find everything in this image,[],dota,yolo_obb,[],general,[],yolo_obb,general
+634,634,./data/images/8718.jpg,where's the bridge in this picture?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+635,635,./data/images/9097.jpg,where is the soccer ball field in this image?,['soccer ball field'],dota,yolo_obb,['soccer ball field'],dota,['soccer ball field'],yolo_obb,dota
+636,636,./data/images/2769.jpg,where are the small vehicles in this aerial view?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+637,637,./data/images/5221.jpg,where is the bridge in this image?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+638,638,./data/images/5833.jpg,where are the small vehicles parked in this lot?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+639,639,./data/images/1732.jpg,where is the storage tank in this image?,['storage tank'],dota,grounding_dino,['storage tank'],open_vocab,['storage tank'],yolo_obb,dota
+640,640,./data/images/265.jpg,find the plane in this image,['plane'],dota,yolo_obb,['plane'],dota,['plane'],yolo_obb,dota
+641,641,./data/images/5144.jpg,where's the baseball diamond in this park?,['baseball diamond'],dota,grounding_dino,['baseball diamond'],open_vocab,['baseball diamond'],yolo_obb,dota
+642,642,./data/images/8267.jpg,where's the tennis court in this aerial view?,['tennis court'],dota,yolo_obb,['tennis court'],dota,['tennis court'],yolo_obb,dota
+643,643,./data/images/3937.jpg,where is the roundabout in this image?,['roundabout'],dota,grounding_dino,['roundabout'],open_vocab,['roundabout'],yolo_obb,dota
+644,644,./data/images/761.jpg,where's the baseball diamond in this image?,['baseball diamond'],dota,yolo_obb,['baseball diamond'],dota,['baseball diamond'],yolo_obb,dota
+645,645,./data/images/7220.jpg,where is the bridge in this picture?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+646,646,./data/images/8439.jpg,where's the swimming pool in this picture?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+647,647,./data/images/3257.jpg,where is the bridge in this image?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+648,648,./data/images/4338.jpg,where's the ship in this image?,['ship'],dota,yolo_obb,['ship'],dota,['ship'],yolo_obb,dota
+649,649,./data/images/4362.jpg,find the soccer ball field in this image,['soccer ball field'],dota,yolo_obb,['soccer ball field'],dota,"['soccer ball field', 'field']",grounding_dino,open_vocab
+650,650,./data/images/316.jpg,where are the planes in this airport photo?,['plane'],dota,yolo_obb,['plane'],dota,['plane'],yolo_obb,dota
+651,651,./data/images/8069.jpg,where are the tennis courts in this image?,['tennis court'],dota,yolo_obb,['tennis court'],dota,['tennis court'],yolo_obb,dota
+652,652,./data/images/1851.jpg,where is the swimming pool in this image?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+653,653,./data/images/2484.jpg,where's the swimming pool in this aerial view?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+654,654,./data/images/9874.jpg,where are the small vehicles in this image?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+655,655,./data/images/9575.jpg,where are the storage tanks in this image?,['storage tank'],dota,yolo_obb,['storage tank'],dota,['storage tank'],yolo_obb,dota
+656,656,./data/images/1078.jpg,find the harbor in this image,['harbor'],dota,yolo_obb,['harbor'],dota,['harbor'],yolo_obb,dota
+657,657,./data/images/8358.jpg,where's the swimming pool in this aerial shot?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+658,658,./data/images/7333.jpg,where's the swimming pool in this picture?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+659,659,./data/images/1071.jpg,find the ship in the water,['ship'],dota,yolo_obb,['ship'],dota,['ship'],yolo_obb,dota
+660,660,./data/images/103.jpg,where are the planes in this airport photo?,['plane'],dota,yolo_obb,['plane'],dota,['plane'],yolo_obb,dota
+661,661,./data/images/5748.jpg,where are the small vehicles parked in this lot?,['small vehicle'],dota,yolo_obb,['small vehicle'],dota,['small vehicle'],yolo_obb,dota
+662,662,./data/images/1418.jpg,where is the bridge in this image?,['bridge'],dota,yolo_obb,['bridge'],dota,['bridge'],yolo_obb,dota
+663,663,./data/images/1658.jpg,where's the harbor in this picture?,['harbor'],dota,grounding_dino,['harbor'],open_vocab,['harbor'],yolo_obb,dota
+664,664,./data/images/5284.jpg,where's the swimming pool in this picture?,['swimming pool'],dota,yolo_obb,['swimming pool'],dota,['swimming pool'],yolo_obb,dota
+665,665,./data/images/1149.jpg,where's the ship in this picture?,['ship'],dota,yolo_obb,['ship'],dota,['ship'],yolo_obb,dota
+666,666,./data/images/7150.jpg,where's the bridge in this picture?,['bridge'],dota,grounding_dino,['bridge'],open_vocab,['bridge'],yolo_obb,dota
+667,667,./data/images/1568.jpg,find every car on this bridge and give me exact coordinates for each one,['car'],open_vocab,yolo_obb,['small vehicle'],dota,"['car', 'bridge']",grounding_dino,open_vocab
+668,668,./data/images/1087.jpg,find the beach in this image and give me the exact location,['beach'],open_vocab,grounding_dino,['beach'],open_vocab,['beach'],grounding_dino,open_vocab
+669,669,./data/images/6085.jpg,where is the soccer goal in this image?,['soccer goal'],open_vocab,grounding_dino,['soccer goal'],open_vocab,[],yolo_obb,general
+670,670,./data/images/8675.jpg,locate the fountain in the center of the square,['fountain'],open_vocab,grounding_dino,['fountain'],open_vocab,['fountain'],grounding_dino,open_vocab
+671,671,./data/images/8341.jpg,find the building in this image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+672,672,./data/images/7811.jpg,where is the lake in this image? give me the precise location.,['lake'],open_vocab,grounding_dino,['lake'],open_vocab,[],yolo_obb,general
+673,673,./data/images/6084.jpg,where is the soccer goal in this image?,['soccer goal'],open_vocab,grounding_dino,['soccer goal'],open_vocab,[],yolo_obb,general
+674,674,./data/images/8774.jpg,find every car in this image and give me the exact bounding box coordinates for each one,['car'],open_vocab,yolo_obb,['small vehicle'],dota,['car'],grounding_dino,open_vocab
+675,675,./data/images/8758.jpg,locate the garden in the center of the image,['garden'],open_vocab,grounding_dino,['garden'],open_vocab,['garden'],grounding_dino,open_vocab
+676,676,./data/images/1692.jpg,locate the Sprint Center in this image,['Sprint Center'],open_vocab,grounding_dino,['Sprint Center'],open_vocab,['Center'],grounding_dino,open_vocab
+677,677,./data/images/4734.jpg,where is the crosswalk in this image?,['crosswalk'],open_vocab,grounding_dino,['crosswalk'],open_vocab,[],yolo_obb,general
+678,678,./data/images/3387.jpg,find the pond in this image and give me its exact location,['pond'],open_vocab,grounding_dino,['pond'],open_vocab,['pond'],grounding_dino,open_vocab
+679,679,./data/images/3646.jpg,find the tree in this image and give me its precise location,['tree'],open_vocab,grounding_dino,['tree'],open_vocab,['tree'],grounding_dino,open_vocab
+680,680,./data/images/1683.jpg,locate the domed structure in the center of the image,['domed structure'],open_vocab,grounding_dino,['domed structure'],open_vocab,['structure'],grounding_dino,open_vocab
+681,681,./data/images/8.jpg,find the airport terminal in this image and give me its precise location,['airport terminal'],open_vocab,grounding_dino,['airport terminal'],open_vocab,['terminal'],grounding_dino,open_vocab
+682,682,./data/images/6062.jpg,find the track around the field,['track'],open_vocab,grounding_dino,['track around the field'],open_vocab,['track'],grounding_dino,open_vocab
+683,683,./data/images/6516.jpg,find the water tank in this image and give me its exact location,['water tank'],open_vocab,grounding_dino,['water tank'],open_vocab,['tank'],grounding_dino,open_vocab
+684,684,./data/images/4123.jpg,find every car in this image and give me precise bounding boxes,['car'],open_vocab,yolo_obb,['small vehicle'],dota,['car'],grounding_dino,open_vocab
+685,685,./data/images/8730.jpg,find the building in this image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+686,686,./data/images/6045.jpg,where exactly is the soccer field in this image? give me the precise bounding box.,['soccer field'],open_vocab,grounding_dino,['soccer field'],open_vocab,['box'],grounding_dino,open_vocab
+687,687,./data/images/567.jpg,find the log in this image and give me its precise bounding box,['log'],open_vocab,grounding_dino,['log'],open_vocab,"['log', 'box']",grounding_dino,open_vocab
+688,688,./data/images/9162.jpg,find the stadium in this image and give me the precise bounding box coordinates,['stadium'],open_vocab,grounding_dino,['stadium'],open_vocab,['stadium'],grounding_dino,open_vocab
+689,689,./data/images/1803.jpg,where is the domed stadium in this image?,['domed stadium'],open_vocab,grounding_dino,['domed stadium'],open_vocab,[],yolo_obb,general
+690,690,./data/images/8501.jpg,where's the house in this image?,['house'],open_vocab,grounding_dino,['house'],open_vocab,[],yolo_obb,general
+691,691,./data/images/4900.jpg,find the river in this image and give me its precise location,['river'],open_vocab,grounding_dino,['river'],open_vocab,['river'],grounding_dino,open_vocab
+692,692,./data/images/1599.jpg,find the boat in the water,['boat'],open_vocab,grounding_dino,['boat'],open_vocab,['boat'],grounding_dino,open_vocab
+693,693,./data/images/7931.jpg,find the house in this image and give me its exact location,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+694,694,./data/images/9548.jpg,find the circular clarifier in the center of the image and give me its exact location,['circular clarifier'],open_vocab,grounding_dino,['circular clarifier'],open_vocab,['clarifier'],grounding_dino,open_vocab
+695,695,./data/images/2823.jpg,find every house in this image and give me the exact coordinates for each one,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+696,696,./data/images/5467.jpg,where's the oval track in this park?,['oval track'],open_vocab,grounding_dino,['oval track'],open_vocab,[],yolo_obb,general
+697,697,./data/images/3529.jpg,find the building in this image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+698,698,./data/images/8752.jpg,find every tree in this image and give me precise bounding boxes,['tree'],open_vocab,grounding_dino,['tree'],open_vocab,['tree'],grounding_dino,open_vocab
+699,699,./data/images/1155.jpg,where are the beach umbrellas located?,['beach umbrella'],open_vocab,grounding_dino,['beach umbrella'],open_vocab,[],yolo_obb,general
+700,700,./data/images/6547.jpg,find the lake in this image and give me its precise bounding box,['lake'],open_vocab,grounding_dino,['lake'],open_vocab,"['box', 'lake']",grounding_dino,open_vocab
+701,701,./data/images/9089.jpg,where is the soccer field in this image? give me the precise location.,['soccer field'],open_vocab,grounding_dino,['soccer field'],open_vocab,[],yolo_obb,general
+702,702,./data/images/7620.jpg,find the river in this image and give me its precise location,['river'],open_vocab,grounding_dino,['river'],open_vocab,['river'],grounding_dino,open_vocab
+703,703,./data/images/8296.jpg,find the building in the center of the image and give me its precise bounding box,['building'],open_vocab,grounding_dino,['building'],open_vocab,"['building', 'box']",grounding_dino,open_vocab
+704,704,./data/images/4540.jpg,find the house in the image and give me its precise location,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+705,705,./data/images/9135.jpg,find the baseball bat in the image,['baseball bat'],open_vocab,grounding_dino,['baseball bat'],open_vocab,['bat'],grounding_dino,open_vocab
+706,706,./data/images/6482.jpg,find the golf course in this image and give me the exact bounding box coordinates,['golf course'],open_vocab,grounding_dino,['golf course'],open_vocab,['course'],grounding_dino,open_vocab
+707,707,./data/images/5826.jpg,find every car in this parking lot and give me the exact coordinates for each one,['car'],open_vocab,yolo_obb,['small vehicle'],dota,['car'],grounding_dino,open_vocab
+708,708,./data/images/1190.jpg,find the wave in this image and give me its exact location,['wave'],open_vocab,grounding_dino,['wave'],open_vocab,['wave'],grounding_dino,open_vocab
+709,709,./data/images/7444.jpg,find the building in this image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+710,710,./data/images/8521.jpg,find the house in this image and give me its precise location,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+711,711,./data/images/960.jpg,find the waves in this image and give me their exact locations,['waves'],open_vocab,grounding_dino,['waves'],open_vocab,"['locations', 'waves']",grounding_dino,open_vocab
+712,712,./data/images/7454.jpg,find the building in this image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+713,713,./data/images/36.jpg,find the airport terminal in this image and give me its precise location,['airport terminal'],open_vocab,grounding_dino,['airport terminal'],open_vocab,['terminal'],grounding_dino,open_vocab
+714,714,./data/images/7516.jpg,find me the tree in the image,['tree'],open_vocab,grounding_dino,['tree'],open_vocab,[],yolo_obb,general
+715,715,./data/images/7644.jpg,where is the building in this image?,['building'],open_vocab,grounding_dino,['building'],open_vocab,[],yolo_obb,general
+716,716,./data/images/4438.jpg,find the house in the top right corner of the image,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+717,717,./data/images/6161.jpg,where are the soccer goals located in this image?,['soccer goal'],open_vocab,yolo_obb,['soccer ball field'],dota,[],yolo_obb,general
+718,718,./data/images/7744.jpg,find the river in this image and give me its exact location,['river'],open_vocab,grounding_dino,['river'],open_vocab,['river'],grounding_dino,open_vocab
+719,719,./data/images/9588.jpg,find the building in this image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+720,720,./data/images/8119.jpg,find the building in this image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+721,721,./data/images/6967.jpg,find every boat in this image and give me the exact coordinates for each one,['boat'],open_vocab,yolo_obb,['ship'],dota,['boat'],grounding_dino,open_vocab
+722,722,./data/images/5718.jpg,find the trees in this parking lot and give me their exact locations,['tree'],open_vocab,grounding_dino,['tree'],open_vocab,"['trees', 'locations']",grounding_dino,open_vocab
+723,723,./data/images/577.jpg,where is the construction equipment in this aerial shot? give me the precise location.,['construction equipment'],open_vocab,grounding_dino,['construction equipment'],open_vocab,[],yolo_obb,general
+724,724,./data/images/9834.jpg,find the traffic sign in this image and give me its exact location,['traffic sign'],open_vocab,grounding_dino,['traffic sign'],open_vocab,['sign'],grounding_dino,open_vocab
+725,725,./data/images/4102.jpg,where's the warehouse in this image?,['warehouse'],open_vocab,grounding_dino,['warehouse'],open_vocab,[],yolo_obb,general
+726,726,./data/images/7646.jpg,find every greenhouse in this image and give me the exact coordinates for each one,['greenhouse'],open_vocab,grounding_dino,['greenhouse'],open_vocab,['greenhouse'],grounding_dino,open_vocab
+727,727,./data/images/4151.jpg,find the building in this image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+728,728,./data/images/3130.jpg,find the sand dune in this image and give me its precise location,['sand dune'],open_vocab,grounding_dino,['sand dune'],open_vocab,['dune'],grounding_dino,open_vocab
+729,729,./data/images/4890.jpg,locate the mountain in this image precisely,['mountain'],open_vocab,grounding_dino,['mountain'],open_vocab,['mountain'],grounding_dino,open_vocab
+730,730,./data/images/9976.jpg,where's the traffic light in this image?,['traffic light'],open_vocab,grounding_dino,['traffic light'],open_vocab,[],yolo_obb,general
+731,731,./data/images/7471.jpg,find the building in this image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+732,732,./data/images/1833.jpg,find the white tent and give me its exact location,['white tent'],open_vocab,grounding_dino,['white tent'],open_vocab,['tent'],grounding_dino,open_vocab
+733,733,./data/images/9149.jpg,locate the stadium in the image,['stadium'],open_vocab,grounding_dino,['stadium'],open_vocab,['stadium'],grounding_dino,open_vocab
+734,734,./data/images/4891.jpg,find the mountain in this image and give me its precise location,['mountain'],open_vocab,grounding_dino,['mountain'],open_vocab,['mountain'],grounding_dino,open_vocab
+735,735,./data/images/2287.jpg,find the building in the center of the image and give me its precise bounding box,['building'],open_vocab,grounding_dino,['building'],open_vocab,"['building', 'box']",grounding_dino,open_vocab
+736,736,./data/images/1330.jpg,find the railroad track in this image and give me its precise location,['railroad track'],open_vocab,grounding_dino,['railroad track'],open_vocab,['track'],grounding_dino,open_vocab
+737,737,./data/images/2771.jpg,find every house in this image and give me the exact bounding boxes for each one,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+738,738,./data/images/3686.jpg,find the road in this image and give me its precise bounding box,['road'],open_vocab,grounding_dino,['road'],open_vocab,"['box', 'road']",grounding_dino,open_vocab
+739,739,./data/images/8283.jpg,find the building in the center of the image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+740,740,./data/images/5928.jpg,where is the soccer goal located in this image?,['soccer goal'],open_vocab,grounding_dino,['soccer goal'],open_vocab,[],yolo_obb,general
+741,741,./data/images/637.jpg,locate the rock in this image precisely,['rock'],open_vocab,grounding_dino,['rock'],open_vocab,['rock'],grounding_dino,open_vocab
+742,742,./data/images/47.jpg,find every airplane in this image and give me the exact coordinates for each one,['airplane'],open_vocab,yolo_obb,['plane'],dota,"['plane', 'airplane']",grounding_dino,open_vocab
+743,743,./data/images/2602.jpg,find the building in this image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+744,744,./data/images/1965.jpg,find the building in the center of the image and give me its precise bounding box,['building'],open_vocab,grounding_dino,['building'],open_vocab,"['building', 'box']",grounding_dino,open_vocab
+745,745,./data/images/2168.jpg,find the building in the center of the image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+746,746,./data/images/5049.jpg,find the mountain in this image and give me its precise location,['mountain'],open_vocab,grounding_dino,['mountain'],open_vocab,['mountain'],grounding_dino,open_vocab
+747,747,./data/images/3334.jpg,where is the house in this image?,['house'],open_vocab,grounding_dino,['house'],open_vocab,[],yolo_obb,general
+748,748,./data/images/3019.jpg,find the stone in this image and give me its precise location,['stone'],open_vocab,grounding_dino,['stone'],open_vocab,['stone'],grounding_dino,open_vocab
+749,749,./data/images/8765.jpg,find the fountain in the center of the square and give me its exact location,['fountain'],open_vocab,grounding_dino,['fountain'],open_vocab,['fountain'],grounding_dino,open_vocab
+750,750,./data/images/9177.jpg,find the stadium in this image and give me its precise location,['stadium'],open_vocab,grounding_dino,['stadium'],open_vocab,['stadium'],grounding_dino,open_vocab
+751,751,./data/images/1360.jpg,where is the boat in this image?,['boat'],open_vocab,grounding_dino,['boat'],open_vocab,[],yolo_obb,general
+752,752,./data/images/5798.jpg,find every car in this parking lot and give me exact coordinates for each one,['car'],open_vocab,yolo_obb,['small vehicle'],dota,['car'],grounding_dino,open_vocab
+753,753,./data/images/9401.jpg,where is the crane in this image?,['crane'],open_vocab,grounding_dino,['crane'],open_vocab,[],yolo_obb,general
+754,754,./data/images/3251.jpg,locate the tractor in this image,['tractor'],open_vocab,grounding_dino,['tractor'],open_vocab,['tractor'],grounding_dino,open_vocab
+755,755,./data/images/6300.jpg,where exactly is the boat in this image? give me precise coordinates.,['boat'],open_vocab,grounding_dino,['boat'],open_vocab,[],yolo_obb,general
+756,756,./data/images/2251.jpg,find the building in this image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+757,757,./data/images/6027.jpg,find the goal in this image and give me the precise location,['goal'],open_vocab,grounding_dino,['goal'],open_vocab,['goal'],grounding_dino,open_vocab
+758,758,./data/images/1175.jpg,find the person on the beach,['person'],open_vocab,grounding_dino,['person'],open_vocab,['person'],grounding_dino,open_vocab
+759,759,./data/images/9797.jpg,find all the cars in this aerial view of the highway interchange and give me their exact locations,['cars'],open_vocab,yolo_obb,['small vehicle'],dota,"['locations', 'cars']",grounding_dino,open_vocab
+760,760,./data/images/3279.jpg,find the building in this image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+761,761,./data/images/2973.jpg,where is the lake in this image?,['lake'],open_vocab,grounding_dino,['lake'],open_vocab,[],yolo_obb,general
+762,762,./data/images/3396.jpg,find the road in this image and give me its precise location,['road'],open_vocab,grounding_dino,['road'],open_vocab,['road'],grounding_dino,open_vocab
+763,763,./data/images/6939.jpg,find every boat in this image and give me the exact coordinates for each one,['boat'],open_vocab,yolo_obb,['ship'],dota,['boat'],grounding_dino,open_vocab
+764,764,./data/images/965.jpg,find the log on the shoreline,['log'],open_vocab,grounding_dino,['log'],open_vocab,['log'],grounding_dino,open_vocab
+765,765,./data/images/8575.jpg,find the house in the image and give me its precise location,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+766,766,./data/images/742.jpg,find the baseball bat in the image,['baseball bat'],open_vocab,grounding_dino,['baseball bat'],open_vocab,['bat'],grounding_dino,open_vocab
+767,767,./data/images/7514.jpg,where is the pool in this image?,['pool'],open_vocab,yolo_obb,['swimming pool'],dota,[],yolo_obb,general
+768,768,./data/images/3314.jpg,where's the tree in this image? give me the exact location.,['tree'],open_vocab,grounding_dino,['tree'],open_vocab,[],yolo_obb,general
+769,769,./data/images/4898.jpg,find the mountain in this image and give me its precise location,['mountain'],open_vocab,grounding_dino,['mountain'],open_vocab,['mountain'],grounding_dino,open_vocab
+770,770,./data/images/9341.jpg,find the train on the tracks and give me its precise location,['train'],open_vocab,grounding_dino,['train'],open_vocab,['train'],grounding_dino,open_vocab
+771,771,./data/images/4672.jpg,find every house in this image and give me the exact coordinates for each one,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+772,772,./data/images/8619.jpg,where is the fountain in this aerial view?,['fountain'],open_vocab,grounding_dino,['fountain'],open_vocab,[],yolo_obb,general
+773,773,./data/images/1217.jpg,where is the beach in this image?,['beach'],open_vocab,grounding_dino,['beach'],open_vocab,[],yolo_obb,general
+774,774,./data/images/4397.jpg,find everything in this image,[],open_vocab,yolo_obb,[],general,[],yolo_obb,general
+775,775,./data/images/6080.jpg,where exactly are the soccer goals in this image?,['soccer goal'],open_vocab,grounding_dino,['soccer goal'],open_vocab,[],yolo_obb,general
+776,776,./data/images/2614.jpg,find every house in this image and give me the exact bounding box for each one,['house'],open_vocab,grounding_dino,['house'],open_vocab,"['house', 'box']",grounding_dino,open_vocab
+777,777,./data/images/2620.jpg,find every tree in the image and give me precise bounding boxes for each one,['tree'],open_vocab,grounding_dino,['tree'],open_vocab,['tree'],grounding_dino,open_vocab
+778,778,./data/images/8715.jpg,locate the fountain in the center of the garden,['fountain'],open_vocab,grounding_dino,['fountain'],open_vocab,['fountain'],grounding_dino,open_vocab
+779,779,./data/images/7282.jpg,where is the train in this image?,['train'],open_vocab,grounding_dino,['train'],open_vocab,[],yolo_obb,general
+780,780,./data/images/3379.jpg,find the house in this image and give me its exact location,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+781,781,./data/images/7301.jpg,find every house in this image and give me precise bounding boxes for each one,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+782,782,./data/images/9858.jpg,find the road in this image and give me its precise location,['road'],open_vocab,grounding_dino,['road'],open_vocab,['road'],grounding_dino,open_vocab
+783,783,./data/images/5605.jpg,find every car in this image and give me the exact coordinates for each one,['car'],open_vocab,yolo_obb,['small vehicle'],dota,['car'],grounding_dino,open_vocab
+784,784,./data/images/9814.jpg,find the house in this image and give me its precise location,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+785,785,./data/images/5786.jpg,find the tree in the middle of the parking lot,['tree'],open_vocab,grounding_dino,['tree'],open_vocab,['tree'],grounding_dino,open_vocab
+786,786,./data/images/8946.jpg,find the soccer goal in the field,['soccer goal'],open_vocab,grounding_dino,['soccer goal'],open_vocab,['goal'],grounding_dino,open_vocab
+787,787,./data/images/6850.jpg,find every boat in this image and give me precise bounding boxes,['boat'],open_vocab,yolo_obb,['ship'],dota,['boat'],grounding_dino,open_vocab
+788,788,./data/images/1516.jpg,where's the boat in this image? give me the exact location.,['boat'],open_vocab,grounding_dino,['boat'],open_vocab,[],yolo_obb,general
+789,789,./data/images/5098.jpg,locate the mountain range in this image with precise bounding boxes,['mountain range'],open_vocab,grounding_dino,['mountain range'],open_vocab,['range'],grounding_dino,open_vocab
+790,790,./data/images/7636.jpg,where is the boat in this image?,['boat'],open_vocab,grounding_dino,['boat'],open_vocab,[],yolo_obb,general
+791,791,./data/images/9427.jpg,find the building in the bottom center of the image,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+792,792,./data/images/8023.jpg,find the building in the center of the image with the green lawn around it,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+793,793,./data/images/2392.jpg,find the building in this image and give me its exact location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+794,794,./data/images/586.jpg,where is the construction equipment in this aerial view? give me the precise location.,['construction equipment'],open_vocab,grounding_dino,['construction equipment'],open_vocab,[],yolo_obb,general
+795,795,./data/images/3519.jpg,find the river in this image and give me its precise location,['river'],open_vocab,grounding_dino,['river'],open_vocab,['river'],grounding_dino,open_vocab
+796,796,./data/images/7653.jpg,find the river in this image and give me its precise location,['river'],open_vocab,grounding_dino,['river'],open_vocab,['river'],grounding_dino,open_vocab
+797,797,./data/images/8947.jpg,find the stadium in this image and give me the precise bounding box coordinates,['stadium'],open_vocab,grounding_dino,['stadium'],open_vocab,['stadium'],grounding_dino,open_vocab
+798,798,./data/images/850.jpg,find the baseball field in the image and give me the precise bounding box coordinates,['baseball field'],open_vocab,yolo_obb,['baseball diamond'],dota,['field'],grounding_dino,open_vocab
+799,799,./data/images/335.jpg,find the airplane in this image and give me its exact location,['airplane'],open_vocab,yolo_obb,['plane'],dota,"['plane', 'airplane']",grounding_dino,open_vocab
+800,800,./data/images/6634.jpg,find the house in the image and give me its exact location,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+801,801,./data/images/9159.jpg,where exactly is the soccer goal in this stadium?,['soccer goal'],open_vocab,grounding_dino,['soccer goal'],open_vocab,[],yolo_obb,general
+802,802,./data/images/7493.jpg,find the building in this image and give me its exact location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+803,803,./data/images/2868.jpg,find and locate every building in this image with precise bounding boxes,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+804,804,./data/images/4872.jpg,find the river in this image and give me its precise location,['river'],open_vocab,grounding_dino,['river'],open_vocab,['river'],grounding_dino,open_vocab
+805,805,./data/images/3550.jpg,find the farm field in this image and give me its precise location,['farm field'],open_vocab,grounding_dino,['farm field'],open_vocab,['field'],grounding_dino,open_vocab
+806,806,./data/images/3842.jpg,find the building in this aerial view and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+807,807,./data/images/7262.jpg,find the train station in this image and give me its precise location,['train station'],open_vocab,grounding_dino,['train station'],open_vocab,['station'],grounding_dino,open_vocab
+808,808,./data/images/5824.jpg,find the crosswalk in this image and give me its precise location,['crosswalk'],open_vocab,grounding_dino,['crosswalk'],open_vocab,['crosswalk'],grounding_dino,open_vocab
+809,809,./data/images/23.jpg,where exactly are the airplanes located in this image? give me precise bounding boxes for each one.,['airplane'],open_vocab,yolo_obb,['plane'],dota,['plane'],yolo_obb,dota
+810,810,./data/images/1453.jpg,find the boat in the water near the bridge,['boat'],open_vocab,grounding_dino,['boat'],open_vocab,"['boat', 'bridge']",grounding_dino,open_vocab
+811,811,./data/images/1684.jpg,where is the building in this image?,['building'],open_vocab,grounding_dino,['building'],open_vocab,[],yolo_obb,general
+812,812,./data/images/2310.jpg,find the skyscraper in this image and give me its precise location,['skyscraper'],open_vocab,grounding_dino,['skyscraper'],open_vocab,['skyscraper'],grounding_dino,open_vocab
+813,813,./data/images/9117.jpg,find the scoreboard in this image and give me its precise location,['scoreboard'],open_vocab,grounding_dino,['scoreboard'],open_vocab,['scoreboard'],grounding_dino,open_vocab
+814,814,./data/images/9407.jpg,find the pipeline in this image and give me its precise location,['pipeline'],open_vocab,grounding_dino,['pipeline'],open_vocab,['pipeline'],grounding_dino,open_vocab
+815,815,./data/images/381.jpg,find the building in the image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+816,816,./data/images/5814.jpg,find every streetlight in this parking lot and give me the exact coordinates for each one,['streetlight'],open_vocab,grounding_dino,['streetlight'],open_vocab,['streetlight'],grounding_dino,open_vocab
+817,817,./data/images/5550.jpg,find every car in this parking lot and give me the exact coordinates for each one,['car'],open_vocab,yolo_obb,['small vehicle'],dota,['car'],grounding_dino,open_vocab
+818,818,./data/images/9309.jpg,find the building in the center-right of the image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,"['building', 'right']",grounding_dino,open_vocab
+819,819,./data/images/1618.jpg,find every car on this road and mark them with precise bounding boxes,['car'],open_vocab,yolo_obb,['small vehicle'],dota,"['them', 'car']",grounding_dino,open_vocab
+820,820,./data/images/789.jpg,find the building in the image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+821,821,./data/images/5983.jpg,where is the goal on this soccer field? give me the precise location.,['goal'],open_vocab,grounding_dino,['goal'],open_vocab,[],yolo_obb,general
+822,822,./data/images/8673.jpg,where are the palm trees located in this image? give me precise coordinates for each one.,['palm tree'],open_vocab,grounding_dino,['palm tree'],open_vocab,[],yolo_obb,general
+823,823,./data/images/4475.jpg,find the tree in the image and give me its precise location,['tree'],open_vocab,grounding_dino,['tree'],open_vocab,['tree'],grounding_dino,open_vocab
+824,824,./data/images/5606.jpg,find every car in this image and give me precise bounding boxes for each one,['car'],open_vocab,yolo_obb,['small vehicle'],dota,['car'],grounding_dino,open_vocab
+825,825,./data/images/9313.jpg,find the building in the image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+826,826,./data/images/5648.jpg,find every car in this parking lot and give me the exact bounding box for each one,['car'],open_vocab,yolo_obb,['small vehicle'],dota,"['box', 'car']",grounding_dino,open_vocab
+827,827,./data/images/6216.jpg,find the track in this image and give me the precise bounding box coordinates,['track'],open_vocab,grounding_dino,['track'],open_vocab,['track'],grounding_dino,open_vocab
+828,828,./data/images/2286.jpg,find the building in the center of the image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+829,829,./data/images/9994.jpg,find every car in this image and give me the exact coordinates for each one,['car'],open_vocab,yolo_obb,['small vehicle'],dota,['car'],grounding_dino,open_vocab
+830,830,./data/images/7578.jpg,find the umbrella in this image and give me its exact location,['umbrella'],open_vocab,grounding_dino,['umbrella'],open_vocab,['umbrella'],grounding_dino,open_vocab
+831,831,./data/images/1183.jpg,where is the person on the beach?,['person'],open_vocab,grounding_dino,['person'],open_vocab,[],yolo_obb,general
+832,832,./data/images/6001.jpg,where is the soccer goal located in this image?,['soccer goal'],open_vocab,grounding_dino,['soccer goal'],open_vocab,[],yolo_obb,general
+833,833,./data/images/5090.jpg,find the mountain range in this image and give me its precise location,['mountain range'],open_vocab,grounding_dino,['mountain range'],open_vocab,['range'],grounding_dino,open_vocab
+834,834,./data/images/2516.jpg,find every house in this image and give me the exact coordinates for each one,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+835,835,./data/images/4122.jpg,find the building in this image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+836,836,./data/images/5521.jpg,find every car in this parking lot and give me the exact coordinates for each one,['car'],open_vocab,yolo_obb,['small vehicle'],dota,['car'],grounding_dino,open_vocab
+837,837,./data/images/5627.jpg,find every car in this parking lot and give me the exact coordinates for each one,['car'],open_vocab,yolo_obb,['small vehicle'],dota,['car'],grounding_dino,open_vocab
+838,838,./data/images/8360.jpg,where is the house in this image? give me the exact location.,['house'],open_vocab,grounding_dino,['house'],open_vocab,[],yolo_obb,general
+839,839,./data/images/5872.jpg,where is the soccer goal in this field?,['soccer goal'],open_vocab,grounding_dino,['soccer goal'],open_vocab,[],yolo_obb,general
+840,840,./data/images/8613.jpg,find the house in the image,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+841,841,./data/images/7727.jpg,find the river in this image and give me its precise bounding box,['river'],open_vocab,grounding_dino,['river'],open_vocab,"['box', 'river']",grounding_dino,open_vocab
+842,842,./data/images/5968.jpg,where is the soccer goal in this field?,['soccer goal'],open_vocab,grounding_dino,['soccer goal'],open_vocab,[],yolo_obb,general
+843,843,./data/images/1180.jpg,find the palm tree in the top right corner,['palm tree'],open_vocab,grounding_dino,['palm tree'],open_vocab,['tree'],grounding_dino,open_vocab
+844,844,./data/images/8763.jpg,where exactly is the fountain in this park? give me the precise location.,['fountain'],open_vocab,grounding_dino,['fountain'],open_vocab,[],yolo_obb,general
+845,845,./data/images/8235.jpg,find the building in the center of the image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+846,846,./data/images/2818.jpg,find and mark every house in this image with precise bounding boxes,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+847,847,./data/images/9965.jpg,find all the trees in this image and give me their exact locations,['trees'],open_vocab,grounding_dino,['tree'],open_vocab,"['trees', 'locations']",grounding_dino,open_vocab
+848,848,./data/images/8704.jpg,where is the fountain in this image?,['fountain'],open_vocab,grounding_dino,['fountain'],open_vocab,[],yolo_obb,general
+849,849,./data/images/6608.jpg,where is the boat in this image?,['boat'],open_vocab,grounding_dino,['boat'],open_vocab,[],yolo_obb,general
+850,850,./data/images/2820.jpg,find the house in this image and give me its precise location,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+851,851,./data/images/7535.jpg,find every palm tree in this image and give me the precise bounding box coordinates for each one,['palm tree'],open_vocab,grounding_dino,['palm tree'],open_vocab,['tree'],grounding_dino,open_vocab
+852,852,./data/images/2260.jpg,find the high-rise building in this image and give me its precise location,['high-rise building'],open_vocab,grounding_dino,['high-rise building'],open_vocab,['building'],grounding_dino,open_vocab
+853,853,./data/images/2239.jpg,find the skyscraper in the center of the image and give me its precise bounding box,['skyscraper'],open_vocab,grounding_dino,['skyscraper'],open_vocab,"['skyscraper', 'box']",grounding_dino,open_vocab
+854,854,./data/images/6021.jpg,where is the goal on this field?,['goal'],open_vocab,grounding_dino,['goal'],open_vocab,[],yolo_obb,general
+855,855,./data/images/782.jpg,where is the baseball bat in this image?,['baseball bat'],open_vocab,grounding_dino,['baseball bat'],open_vocab,[],yolo_obb,general
+856,856,./data/images/932.jpg,find the beach in this image and give me the exact bounding box coordinates,['beach'],open_vocab,grounding_dino,['beach'],open_vocab,['beach'],grounding_dino,open_vocab
+857,857,./data/images/6202.jpg,locate the soccer field in the image,['soccer field'],open_vocab,yolo_obb,['soccer ball field'],dota,['field'],grounding_dino,open_vocab
+858,858,./data/images/2412.jpg,locate the building in the center of the image with the curved white roof,['building'],open_vocab,grounding_dino,['building with curved white roof'],open_vocab,['building'],grounding_dino,open_vocab
+859,859,./data/images/6997.jpg,find every boat in this image and give me precise bounding boxes for each one,['boat'],open_vocab,yolo_obb,['ship'],dota,['boat'],grounding_dino,open_vocab
+860,860,./data/images/9116.jpg,where's the baseball bat in this stadium?,['baseball bat'],open_vocab,grounding_dino,['baseball bat'],open_vocab,[],yolo_obb,general
+861,861,./data/images/1156.jpg,find the people on the beach,['people'],open_vocab,grounding_dino,['person'],open_vocab,['people'],grounding_dino,open_vocab
+862,862,./data/images/8107.jpg,find the building in the image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+863,863,./data/images/5805.jpg,find every car in this parking lot and give me the exact coordinates for each one,[],open_vocab,yolo_obb,['small vehicle'],dota,['car'],grounding_dino,open_vocab
+864,864,./data/images/4879.jpg,where exactly is the snow in this image? give me precise bounding boxes.,['snow'],open_vocab,grounding_dino,['snow'],open_vocab,[],yolo_obb,general
+865,865,./data/images/3309.jpg,find the tractor in this image and give me its exact location,['tractor'],open_vocab,grounding_dino,['tractor'],open_vocab,['tractor'],grounding_dino,open_vocab
+866,866,./data/images/8962.jpg,where is the soccer goal located in this stadium?,['soccer goal'],open_vocab,grounding_dino,['soccer goal'],open_vocab,[],yolo_obb,general
+867,867,./data/images/1702.jpg,find the white tent and give me its exact bounding box,['white tent'],open_vocab,grounding_dino,['white tent'],open_vocab,"['tent', 'box']",grounding_dino,open_vocab
+868,868,./data/images/2492.jpg,find the skyscraper in this image and give me its precise location,['skyscraper'],open_vocab,grounding_dino,['skyscraper'],open_vocab,['skyscraper'],grounding_dino,open_vocab
+869,869,./data/images/3706.jpg,find the tree in this image and give me its exact location,['tree'],open_vocab,grounding_dino,['tree'],open_vocab,['tree'],grounding_dino,open_vocab
+870,870,./data/images/8276.jpg,find the building in the center of the image and give me its precise bounding box coordinates,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+871,871,./data/images/286.jpg,locate the airport terminal in this image,['airport terminal'],open_vocab,grounding_dino,['airport terminal'],open_vocab,['terminal'],grounding_dino,open_vocab
+872,872,./data/images/1608.jpg,where's the boat in this image?,['boat'],open_vocab,grounding_dino,['boat'],open_vocab,[],yolo_obb,general
+873,873,./data/images/6631.jpg,where is the pond in this image?,['pond'],open_vocab,grounding_dino,['pond'],open_vocab,[],yolo_obb,general
+874,874,./data/images/8278.jpg,find the building in the center of the image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+875,875,./data/images/7315.jpg,find the building in the center of the image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+876,876,./data/images/2252.jpg,find the building in this image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+877,877,./data/images/7415.jpg,locate the building in this image precisely,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+878,878,./data/images/8365.jpg,find the house in this image and give me its exact location,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+879,879,./data/images/1891.jpg,find the stadium in this image and give me its precise location,['stadium'],open_vocab,grounding_dino,['stadium'],open_vocab,['stadium'],grounding_dino,open_vocab
+880,880,./data/images/5062.jpg,find the mountain in this image and give me its precise location,['mountain'],open_vocab,grounding_dino,['mountain'],open_vocab,['mountain'],grounding_dino,open_vocab
+881,881,./data/images/6120.jpg,where is the soccer goal in this image?,['soccer goal'],open_vocab,grounding_dino,['soccer goal'],open_vocab,[],yolo_obb,general
+882,882,./data/images/563.jpg,where is the construction vehicle in this image? give me the precise location.,['construction vehicle'],open_vocab,grounding_dino,['construction vehicle'],open_vocab,[],yolo_obb,general
+883,883,./data/images/291.jpg,where is the airport terminal in this image?,['airport terminal'],open_vocab,grounding_dino,['airport terminal'],open_vocab,[],yolo_obb,general
+884,884,./data/images/4716.jpg,find the house in this image and give me its precise location,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+885,885,./data/images/7708.jpg,locate the river in this image,['river'],open_vocab,grounding_dino,['river'],open_vocab,['river'],grounding_dino,open_vocab
+886,886,./data/images/6349.jpg,find the building in the image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+887,887,./data/images/169.jpg,find the airplane in this image and give me its precise location,['airplane'],open_vocab,yolo_obb,['plane'],dota,"['plane', 'airplane']",grounding_dino,open_vocab
+888,888,./data/images/267.jpg,find every airplane in this image and give me the exact coordinates for each one,['airplane'],open_vocab,yolo_obb,['plane'],dota,"['plane', 'airplane']",grounding_dino,open_vocab
+889,889,./data/images/4638.jpg,find the house in the center of the image and give me its precise location,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+890,890,./data/images/7077.jpg,find the train and give me its precise location,['train'],open_vocab,grounding_dino,['train'],open_vocab,['train'],grounding_dino,open_vocab
+891,891,./data/images/3355.jpg,find the house in this image and give me its precise location,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+892,892,./data/images/8279.jpg,find the building in the center of the image,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+893,893,./data/images/315.jpg,find every airplane parked at the airport gates and give me their exact locations,['airplane'],open_vocab,yolo_obb,['plane'],dota,"['locations', 'plane', 'airplane']",grounding_dino,open_vocab
+894,894,./data/images/6728.jpg,find the dock in this image and give me its precise location,['dock'],open_vocab,grounding_dino,['dock'],open_vocab,['dock'],grounding_dino,open_vocab
+895,895,./data/images/9496.jpg,find the building in the image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+896,896,./data/images/4067.jpg,find the building in this image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+897,897,./data/images/245.jpg,find the airport terminal in this image and give me its precise location,['airport terminal'],open_vocab,grounding_dino,['airport terminal'],open_vocab,['terminal'],grounding_dino,open_vocab
+898,898,./data/images/252.jpg,find every airplane in this image and give me precise bounding boxes for each one,['airplane'],open_vocab,yolo_obb,['plane'],dota,"['plane', 'airplane']",grounding_dino,open_vocab
+899,899,./data/images/1111.jpg,find the wave in this image and give me its precise location,['wave'],open_vocab,grounding_dino,['wave'],open_vocab,['wave'],grounding_dino,open_vocab
+900,900,./data/images/4801.jpg,find the mountain in this image and give me its precise location,['mountain'],open_vocab,grounding_dino,['mountain'],open_vocab,['mountain'],grounding_dino,open_vocab
+901,901,./data/images/1713.jpg,find the circular structure in the image and give me its precise location,['circular structure'],open_vocab,grounding_dino,['circular structure'],open_vocab,['structure'],grounding_dino,open_vocab
+902,902,./data/images/50.jpg,where's the airplane in this image?,['airplane'],open_vocab,yolo_obb,['plane'],dota,['plane'],yolo_obb,dota
+903,903,./data/images/1835.jpg,find the stadium in this image and give me the exact coordinates of its bounding box,['stadium'],open_vocab,grounding_dino,['stadium'],open_vocab,['stadium'],grounding_dino,open_vocab
+904,904,./data/images/7896.jpg,find the house in this image and give me its precise location,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+905,905,./data/images/3383.jpg,find the water body in this image and give me its precise location,['water body'],open_vocab,grounding_dino,['water body'],open_vocab,['body'],grounding_dino,open_vocab
+906,906,./data/images/6410.jpg,locate the pond in this image,['pond'],open_vocab,grounding_dino,['pond'],open_vocab,['pond'],grounding_dino,open_vocab
+907,907,./data/images/4313.jpg,find the tree in this image and give me its precise location,['tree'],open_vocab,grounding_dino,['tree'],open_vocab,['tree'],grounding_dino,open_vocab
+908,908,./data/images/872.jpg,find the light post in the image and give me its exact location,['light post'],open_vocab,grounding_dino,['light post'],open_vocab,['post'],grounding_dino,open_vocab
+909,909,./data/images/1254.jpg,locate the wave in this image precisely,['wave'],open_vocab,grounding_dino,['wave'],open_vocab,['wave'],grounding_dino,open_vocab
+910,910,./data/images/8882.jpg,locate the central monument in the image,['central monument'],open_vocab,grounding_dino,['monument'],open_vocab,['monument'],grounding_dino,open_vocab
+911,911,./data/images/5851.jpg,find every trailer in this image and give me the exact coordinates for each one,['trailer'],open_vocab,grounding_dino,['trailer'],open_vocab,['trailer'],grounding_dino,open_vocab
+912,912,./data/images/5702.jpg,find every tree in this image and give me the exact location for each one,['tree'],open_vocab,grounding_dino,['tree'],open_vocab,['tree'],grounding_dino,open_vocab
+913,913,./data/images/8103.jpg,where is the building in this image?,['building'],open_vocab,grounding_dino,['building'],open_vocab,[],yolo_obb,general
+914,914,./data/images/2098.jpg,find the building in this image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+915,915,./data/images/5128.jpg,locate the mountain in this image,['mountain'],open_vocab,grounding_dino,['mountain'],open_vocab,['mountain'],grounding_dino,open_vocab
+916,916,./data/images/248.jpg,find the airport terminal in this image and give me its precise location,['airport terminal'],open_vocab,grounding_dino,['airport terminal'],open_vocab,['terminal'],grounding_dino,open_vocab
+917,917,./data/images/6561.jpg,where is the boat in this image?,['boat'],open_vocab,grounding_dino,['boat'],open_vocab,[],yolo_obb,general
+918,918,./data/images/1339.jpg,where is the building in this image?,['building'],open_vocab,grounding_dino,['building'],open_vocab,[],yolo_obb,general
+919,919,./data/images/7017.jpg,find the docks in this image and give me their exact locations,['docks'],open_vocab,grounding_dino,['dock'],open_vocab,"['locations', 'docks']",grounding_dino,open_vocab
+920,920,./data/images/2110.jpg,find every tree in this image and give me the exact bounding boxes,['tree'],open_vocab,grounding_dino,['tree'],open_vocab,['tree'],grounding_dino,open_vocab
+921,921,./data/images/1569.jpg,where is the boat in this image?,['boat'],open_vocab,grounding_dino,['boat'],open_vocab,[],yolo_obb,general
+922,922,./data/images/1726.jpg,where is the airplane in this aerial view?,['airplane'],open_vocab,yolo_obb,['plane'],dota,['plane'],yolo_obb,dota
+923,923,./data/images/8384.jpg,find the house in this image and give me its exact location,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+924,924,./data/images/6940.jpg,find every boat in this image and give me the exact coordinates for each one,['boat'],open_vocab,yolo_obb,['ship'],dota,['boat'],grounding_dino,open_vocab
+925,925,./data/images/4395.jpg,where is the bird in this image? give me the precise location.,['bird'],open_vocab,grounding_dino,['bird'],open_vocab,[],yolo_obb,general
+926,926,./data/images/2420.jpg,find the building in the center of the image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+927,927,./data/images/3045.jpg,find the sand dune in this image and give me its precise location,['sand dune'],open_vocab,grounding_dino,['sand dune'],open_vocab,['dune'],grounding_dino,open_vocab
+928,928,./data/images/5503.jpg,find the tree in the image and give me its exact location,['tree'],open_vocab,grounding_dino,['tree'],open_vocab,['tree'],grounding_dino,open_vocab
+929,929,./data/images/3703.jpg,find the river in this image and give me its precise location with bounding boxes,['river'],open_vocab,grounding_dino,['river'],open_vocab,['river'],grounding_dino,open_vocab
+930,930,./data/images/8191.jpg,find me the house in this image,['house'],open_vocab,grounding_dino,['house'],open_vocab,[],yolo_obb,general
+931,931,./data/images/5331.jpg,find the building in the center of the image,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+932,932,./data/images/9809.jpg,find the traffic sign in this image and give me its precise location,['traffic sign'],open_vocab,grounding_dino,['traffic sign'],open_vocab,['sign'],grounding_dino,open_vocab
+933,933,./data/images/447.jpg,find the pool in this image and give me its precise location,['pool'],open_vocab,yolo_obb,['swimming pool'],dota,['pool'],grounding_dino,open_vocab
+934,934,./data/images/7894.jpg,locate the river in this image precisely,['river'],open_vocab,grounding_dino,['river'],open_vocab,['river'],grounding_dino,open_vocab
+935,935,./data/images/8729.jpg,where is the fountain located in this image?,['fountain'],open_vocab,grounding_dino,['fountain'],open_vocab,[],yolo_obb,general
+936,936,./data/images/7828.jpg,find the river in this image and give me its precise bounding box,['river'],open_vocab,grounding_dino,['river'],open_vocab,"['box', 'river']",grounding_dino,open_vocab
+937,937,./data/images/1768.jpg,find the domed stadium and give me its exact location,['domed stadium'],open_vocab,grounding_dino,['domed stadium'],open_vocab,['stadium'],grounding_dino,open_vocab
+938,938,./data/images/6808.jpg,find every boat in this image and give me the exact coordinates for each one,['boat'],open_vocab,yolo_obb,['ship'],dota,['boat'],grounding_dino,open_vocab
+939,939,./data/images/4704.jpg,find the house in this image and give me its precise location,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+940,940,./data/images/3869.jpg,find the building with the red roof in the bottom right,['building'],open_vocab,grounding_dino,['building with red roof'],open_vocab,['building'],grounding_dino,open_vocab
+941,941,./data/images/1655.jpg,locate the modern building in the center of the image,['modern building'],open_vocab,grounding_dino,['modern building'],open_vocab,['building'],grounding_dino,open_vocab
+942,942,./data/images/3187.jpg,find the dune in this image and give me its precise location,['dune'],open_vocab,grounding_dino,['dune'],open_vocab,['dune'],grounding_dino,open_vocab
+943,943,./data/images/683.jpg,find the building in the image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+944,944,./data/images/4170.jpg,find the building in this image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+945,945,./data/images/4477.jpg,where is the log pile in this image? give me the precise location.,['log pile'],open_vocab,grounding_dino,['log pile'],open_vocab,[],yolo_obb,general
+946,946,./data/images/461.jpg,find the tree in this image and give me its precise location,['tree'],open_vocab,grounding_dino,['tree'],open_vocab,['tree'],grounding_dino,open_vocab
+947,947,./data/images/5764.jpg,find every car in this parking lot and give me the exact coordinates for each one,['car'],open_vocab,yolo_obb,['small vehicle'],dota,['car'],grounding_dino,open_vocab
+948,948,./data/images/7522.jpg,find the building in this image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+949,949,./data/images/4502.jpg,find and box the house in this image,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+950,950,./data/images/9710.jpg,find the building with the yellow roof in the bottom left corner,['building'],open_vocab,grounding_dino,['building with yellow roof'],open_vocab,['building'],grounding_dino,open_vocab
+951,951,./data/images/318.jpg,where is the airport terminal in this image?,['airport terminal'],open_vocab,grounding_dino,['airport terminal'],open_vocab,[],yolo_obb,general
+952,952,./data/images/1145.jpg,where are the people on the beach?,['people'],open_vocab,grounding_dino,['person'],open_vocab,[],yolo_obb,general
+953,953,./data/images/5094.jpg,find the river in this image and give me its precise location,['river'],open_vocab,grounding_dino,['river'],open_vocab,['river'],grounding_dino,open_vocab
+954,954,./data/images/1393.jpg,find the railroad tracks in this image and give me the precise bounding box for each one,['railroad tracks'],open_vocab,grounding_dino,['railroad track'],open_vocab,"['tracks', 'box']",grounding_dino,open_vocab
+955,955,./data/images/6623.jpg,find the pond in this image and give me its precise bounding box,['pond'],open_vocab,grounding_dino,['pond'],open_vocab,"['pond', 'box']",grounding_dino,open_vocab
+956,956,./data/images/1501.jpg,find the boat in the water near the top right corner,['boat'],open_vocab,grounding_dino,['boat'],open_vocab,['boat'],grounding_dino,open_vocab
+957,957,./data/images/6408.jpg,find the pond in this image and give me its exact location,['pond'],open_vocab,grounding_dino,['pond'],open_vocab,['pond'],grounding_dino,open_vocab
+958,958,./data/images/376.jpg,find the tree in this image and give me its exact location,['tree'],open_vocab,grounding_dino,['tree'],open_vocab,['tree'],grounding_dino,open_vocab
+959,959,./data/images/410.jpg,find the construction vehicle in this image and give me its precise location,['construction vehicle'],open_vocab,grounding_dino,['construction vehicle'],open_vocab,['vehicle'],grounding_dino,open_vocab
+960,960,./data/images/1660.jpg,find the building in the center of the image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+961,961,./data/images/3151.jpg,where is the road in this image?,['road'],open_vocab,grounding_dino,['road'],open_vocab,[],yolo_obb,general
+962,962,./data/images/1623.jpg,locate the suspension bridge in the image,['suspension bridge'],open_vocab,grounding_dino,['suspension bridge'],open_vocab,['bridge'],yolo_obb,dota
+963,963,./data/images/5609.jpg,find every tree in this image and give me the exact coordinates for each one,['tree'],open_vocab,grounding_dino,['tree'],open_vocab,['tree'],grounding_dino,open_vocab
+964,964,./data/images/8981.jpg,locate the stadium in this image precisely,['stadium'],open_vocab,grounding_dino,['stadium'],open_vocab,['stadium'],grounding_dino,open_vocab
+965,965,./data/images/5802.jpg,find every car in this parking lot and give me the exact coordinates for each one,['car'],open_vocab,yolo_obb,['small vehicle'],dota,['car'],grounding_dino,open_vocab
+966,966,./data/images/5306.jpg,where is the boat in this image?,['boat'],open_vocab,grounding_dino,['boat'],open_vocab,[],yolo_obb,general
+967,967,./data/images/7086.jpg,where is the train in this image?,['train'],open_vocab,grounding_dino,['train'],open_vocab,[],yolo_obb,general
+968,968,./data/images/8898.jpg,find the building in the center of the image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+969,969,./data/images/7488.jpg,find the house in this image and give me its precise location,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+970,970,./data/images/9616.jpg,find the road in this image and give me its precise location,['road'],open_vocab,grounding_dino,['road'],open_vocab,['road'],grounding_dino,open_vocab
+971,971,./data/images/9218.jpg,where is the soccer goal located in this stadium?,['soccer goal'],open_vocab,grounding_dino,['soccer goal'],open_vocab,[],yolo_obb,general
+972,972,./data/images/1672.jpg,find the building in this image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+973,973,./data/images/2358.jpg,find the skyscraper in the center of the image and give me its precise location,['skyscraper'],open_vocab,grounding_dino,['skyscraper'],open_vocab,['skyscraper'],grounding_dino,open_vocab
+974,974,./data/images/8467.jpg,find the house in this image and give me the exact coordinates for its bounding box,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+975,975,./data/images/274.jpg,find every airplane in this image and give me the exact coordinates for each one,['airplane'],open_vocab,yolo_obb,['plane'],dota,"['plane', 'airplane']",grounding_dino,open_vocab
+976,976,./data/images/2473.jpg,find the building in this image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+977,977,./data/images/5489.jpg,find every parking space in this image and give me the exact coordinates for each one,['parking space'],open_vocab,grounding_dino,['parking space'],open_vocab,['space'],grounding_dino,open_vocab
+978,978,./data/images/4771.jpg,find every house in this image and give me the exact coordinates for each one,['house'],open_vocab,grounding_dino,['house'],open_vocab,['house'],grounding_dino,open_vocab
+979,979,./data/images/2107.jpg,find the building with the octagonal roof in the center of the image,['building'],open_vocab,grounding_dino,['building with octagonal roof'],open_vocab,['building'],grounding_dino,open_vocab
+980,980,./data/images/7500.jpg,where is the pool in this image?,['pool'],open_vocab,yolo_obb,['swimming pool'],dota,[],yolo_obb,general
+981,981,./data/images/4414.jpg,find the tree in this image and give me its exact location,['tree'],open_vocab,grounding_dino,['tree'],open_vocab,['tree'],grounding_dino,open_vocab
+982,982,./data/images/8138.jpg,find the building with the red roof in the center of the image,['building'],open_vocab,grounding_dino,['building with red roof'],open_vocab,['building'],grounding_dino,open_vocab
+983,983,./data/images/8661.jpg,find every tree in this image and give me the exact coordinates for each one,['tree'],open_vocab,grounding_dino,['tree'],open_vocab,['tree'],grounding_dino,open_vocab
+984,984,./data/images/8239.jpg,find the building in this image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+985,985,./data/images/2417.jpg,find the building in this image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+986,986,./data/images/8772.jpg,find the building in the image and give me its precise location,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+987,987,./data/images/2236.jpg,find every building in this image and give me precise bounding boxes for each one,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+988,988,./data/images/3767.jpg,find the tree in this image and give me its precise location,['tree'],open_vocab,grounding_dino,['tree'],open_vocab,['tree'],grounding_dino,open_vocab
+989,989,./data/images/9792.jpg,find the building in the top right corner of the image,['building'],open_vocab,grounding_dino,['building'],open_vocab,['building'],grounding_dino,open_vocab
+990,990,./data/images/9990.jpg,find the road in this image and give me its exact location,['road'],open_vocab,grounding_dino,['road'],open_vocab,['road'],grounding_dino,open_vocab
+991,991,./data/images/9966.jpg,where is the airplane in this image?,['airplane'],open_vocab,yolo_obb,['plane'],dota,['plane'],yolo_obb,dota
+992,992,./data/images/7323.jpg,where is the pool in this image?,['pool'],open_vocab,yolo_obb,['swimming pool'],dota,[],yolo_obb,general
+993,993,./data/images/1383.jpg,find the car on the bridge,['car'],open_vocab,grounding_dino,"['car', 'bridge']",open_vocab,"['car', 'bridge']",grounding_dino,open_vocab
+994,994,./data/images/3101.jpg,what is this texture? give me the precise location of it.,['texture'],open_vocab,grounding_dino,['texture'],open_vocab,[],yolo_obb,general
+995,995,./data/images/3921.jpg,find the building with the red roof in the center of the image,['building'],open_vocab,grounding_dino,['building with red roof'],open_vocab,['building'],grounding_dino,open_vocab
+996,996,./data/images/6685.jpg,find the boat in the water and give me its exact location,['boat'],open_vocab,grounding_dino,['boat'],open_vocab,['boat'],grounding_dino,open_vocab
+997,997,./data/images/3194.jpg,find the dune in this image and give me its precise location,['dune'],open_vocab,grounding_dino,['dune'],open_vocab,['dune'],grounding_dino,open_vocab
+998,998,./data/images/1941.jpg,find every tent in this image and give me the exact coordinates for each one,['tent'],open_vocab,grounding_dino,['tent'],open_vocab,['tent'],grounding_dino,open_vocab
+999,999,./data/images/7713.jpg,where is the river in this image? give me the precise location.,['river'],open_vocab,grounding_dino,['river'],open_vocab,[],yolo_obb,general
